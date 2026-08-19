@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                    |
 | --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                  |
-| job.shiksha     | available | $19.99      | —             | high           | low    | 3      | name.com                                     |
+| area.degree     | available | $14.99      | —             | high           | low    | 4      | name.com                                     |
 | room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                             |
 | job.degree      | premium   | $250        | —             | high           | low    | 3      | name.com                                     |
-| out.degree      | available | $14.99      | —             | high           | low    | 3      | name.com                                     |
+| area.institute  | available | $9.99       | —             | high           | low    | 4      | name.com                                     |
 | room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                  |
 | job.schule      | premium   | $123.75     | —             | high           | low    | 3      | name.com                                     |
-| area.degree     | available | $14.99      | —             | high           | low    | 4      | name.com                                     |
-| skill.pro       | resell    | $9,752      | $33.99        | high           | medium | 5      | Porkbun LLC                                  |
-| job.study       | premium   | $1,250      | —             | high           | low    | 3      | name.com                                     |
-| area.institute  | available | $9.99       | —             | high           | low    | 4      | name.com                                     |
-| desk.school     | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 2                             |
-| out.institute   | premium   | $23.60      | $23.60        | high           | low    | 3      | namesilo                                     |
 | area.schule     | available | $19.99      | —             | high           | low    | 4      | name.com                                     |
-| hall.school     | resell    | —           | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| out.schule      | premium   | $38.94      | $38.94        | high           | low    | 3      | namesilo                                     |
-| area.shiksha    | available | $19.99      | —             | high           | low    | 4      | name.com                                     |
-| home.school     | resell    | —           | —             | high           | medium | 4      | GoDaddy.com, LLC                             |
+| skill.pro       | resell    | $9,752      | $33.99        | high           | medium | 5      | Porkbun LLC                                  |
 | area.school     | premium   | $69.30      | $138.60       | high           | low    | 4      | namecheap                                    |
 | book.degree     | available | $14.99      | —             | high           | medium | 4      | name.com                                     |
+| desk.school     | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 2                             |
+| book.study      | premium   | $625        | —             | high           | medium | 4      | name.com                                     |
+| desk.degree     | available | $14.99      | —             | high           | low    | 4      | name.com                                     |
+| hall.school     | resell    | —           | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| desk.study      | premium   | $53.92      | $53.92        | high           | low    | 4      | namesilo                                     |
+| desk.education  | available | $34.99      | $34.99        | high           | low    | 4      | namesilo                                     |
+| home.school     | resell    | —           | —             | high           | medium | 4      | GoDaddy.com, LLC                             |
+| hall.institute  | premium   | $23.60      | $23.60        | high           | low    | 4      | namesilo                                     |
+| desk.expert     | available | $11.99      | —             | high           | low    | 4      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
