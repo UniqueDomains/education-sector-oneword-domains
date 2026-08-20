@@ -81,7 +81,7 @@ print(df.head())
 | loans.study     | premium   | $625      | —             | medium         | low    | 5      | name.com                                         |
 | facts.new       | available | $549.99   | —             | high           | low    | 5      | name.com                                         |
 | life.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                      |
-| learns.date     | premium   | $375      | —             | medium         | low    | 6      | name.com                                         |
+| alumna.study    | premium   | $62.50    | $62.50        | medium         | low    | 6      | name.com                                         |
 | facts.ryukyu    | available | $22.98    | —             | high           | low    | 5      | namecheap                                        |
 | talk.business   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                      |
 
