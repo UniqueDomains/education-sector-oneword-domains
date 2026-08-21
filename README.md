@@ -1,10 +1,10 @@
-# One-Word Education Domain Names (193,105)
+# One-Word Education Domain Names (195,728)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-193%2C105%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-195%2C728%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection contains one-word domain names tagged under the education category, spanning 506 different domain extensions. The median asking price across this set is $638. Updated daily to reflect current listings and pricing across the full range of one-word education domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **193,105 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **195,728 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 193,105 domains · **Median ask:** $593.40 · **High-demand under $2,500:** 604
+**Public extract:** 1,000 rows · **Live catalog:** 195,728 domains · **Median ask:** $585.84 · **High-demand under $2,500:** 604
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/education`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------ |
-| room.degree     | available | $14.99    | —             | high           | low    | 4      | name.com                                         |
-| job.style       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                      |
-| pre.institute   | premium   | $28       | $28           | medium         | low    | 3      | namecheap                                        |
-| room.education  | available | $34.99    | $34.99        | high           | low    | 4      | namesilo                                         |
-| job.watch       | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                      |
-| room.study      | premium   | $116      | $116          | high           | low    | 4      | namesilo                                         |
-| room.institute  | available | $9.99     | —             | high           | low    | 4      | name.com                                         |
-| job.world       | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                      |
-| loans.degree    | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                         |
-| room.schule     | available | $19.99    | —             | high           | low    | 4      | name.com                                         |
-| hall.shop       | resell    | —         | —             | high           | low    | 4      | ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED |
-| loans.education | premium   | $500      | —             | medium         | low    | 5      | name.com                                         |
-| room.shiksha    | available | $19.99    | —             | high           | low    | 4      | name.com                                         |
-| home.solar      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                      |
-| loans.study     | premium   | $625      | —             | medium         | low    | 5      | name.com                                         |
-| facts.new       | available | $549.99   | —             | high           | low    | 5      | name.com                                         |
-| life.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                      |
-| alumna.study    | premium   | $62.50    | $62.50        | medium         | low    | 6      | name.com                                         |
-| facts.ryukyu    | available | $22.98    | —             | high           | low    | 5      | namecheap                                        |
-| talk.business   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                      |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| book.degree    | available | $14.99    | —             | high           | medium | 4      | name.com                                     |
+| skill.pro      | resell    | $9,752    | $33.99        | high           | medium | 5      | Porkbun LLC                                  |
+| book.study     | premium   | $625      | —             | high           | medium | 4      | name.com                                     |
+| desk.degree    | available | $14.99    | —             | high           | low    | 4      | name.com                                     |
+| desk.school    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 2                             |
+| desk.study     | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo                                     |
+| desk.education | available | $34.99    | $34.99        | high           | low    | 4      | namesilo                                     |
+| hall.school    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| hall.institute | premium   | $23.60    | $23.60        | high           | low    | 4      | namesilo                                     |
+| desk.expert    | available | $11.99    | —             | high           | low    | 4      | name.com                                     |
+| quiz.academy   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 46                            |
+| hall.study     | premium   | $62.50    | —             | high           | low    | 4      | name.com                                     |
+| desk.institute | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| room.guide     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                  |
+| high.study     | premium   | $125      | $125          | medium         | low    | 4      | name.com                                     |
+| desk.new       | available | $549.99   | —             | high           | low    | 4      | name.com                                     |
+| room.info      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| home.bio       | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG                     |
+| desk.schule    | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| room.services  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 193,105 live domains                       |
+| 1,000-row public sample | 195,728 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 604 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Education Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Education Domain Names*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
