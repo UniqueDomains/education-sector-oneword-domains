@@ -14,7 +14,7 @@ This selection contains one-word domain names tagged under the education categor
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **195,728 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 195,728 domains · **Median ask:** $585.84 · **High-demand under $2,500:** 604
+**Public extract:** 1,000 rows · **Live catalog:** 195,728 domains · **Median ask:** $585.79 · **High-demand under $2,500:** 604
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/education`
