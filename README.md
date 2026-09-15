@@ -16,7 +16,7 @@ This selection contains one-word domain names tagged under the education categor
 
 **Public extract:** 1,000 rows · **Live catalog:** 211,323 domains · **Median ask:** $563.75 · **High-demand under $2,500:** 585
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/sector/education`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| job.shiksha     | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| skill.financial | resell    | $29.99    | —             | high           | medium | 5      | Spaceship, Inc.                              |
-| job.degree      | premium   | $250      | —             | high           | low    | 3      | name.com                                     |
-| out.degree      | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| skill.pro       | resell    | $9,752    | $33.99        | high           | medium | 5      | Porkbun LLC                                  |
-| job.schule      | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
-| area.degree     | available | $14.99    | —             | high           | low    | 4      | name.com                                     |
-| hall.school     | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| job.study       | premium   | $1,250    | —             | high           | low    | 3      | name.com                                     |
-| area.institute  | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| home.school     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                             |
-| out.institute   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
-| area.schule     | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| quiz.academy    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 46                            |
-| out.schule      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                     |
-| area.shiksha    | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| room.cx         | resell    | —         | —             | high           | low    | 4      | CentralNic Ltd                               |
-| area.school     | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                    |
-| book.degree     | available | $14.99    | —             | high           | medium | 4      | name.com                                     |
-| room.guide      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------ |
+| desk.cat         | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap                                        |
+| job.style        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                      |
+| pre.institute    | premium   | $28       | $28           | medium         | low    | 3      | namecheap                                        |
+| desk.kiwi        | available | $31.98    | $35.68        | medium         | low    | 4      | namecheap                                        |
+| job.watch        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                      |
+| grade.accountant | premium   | $437.50   | $62.50        | medium         | low    | 5      | name.com                                         |
+| room.institute   | available | $9.99     | —             | high           | low    | 4      | name.com                                         |
+| hall.shop        | resell    | —         | —             | high           | low    | 4      | ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED |
+| grade.blog       | premium   | $53.92    | $242          | medium         | low    | 5      | namesilo                                         |
+| grade.actor      | available | $9.48     | $54.98        | medium         | low    | 5      | namecheap                                        |
+| home.solar       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                      |
+| grade.boo        | premium   | $311.25   | $311.25       | medium         | low    | 5      | name.com                                         |
+| grade.adult      | available | $69.98    | $166.98       | medium         | low    | 5      | namecheap                                        |
+| life.school      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                      |
+| grade.buzz       | premium   | $116      | $53.92        | medium         | low    | 5      | namesilo                                         |
+| grade.audio      | available | $104.99   | $114.99       | medium         | low    | 5      | namesilo                                         |
+| talk.business    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                      |
+| grade.cricket    | premium   | $437.50   | $62.50        | medium         | low    | 5      | name.com                                         |
+| grade.bargains   | available | $14.98    | $37.98        | medium         | low    | 5      | namecheap                                        |
+| task.fm          | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Education Domain Names*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Education Domain Names*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
