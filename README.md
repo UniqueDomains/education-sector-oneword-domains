@@ -1,10 +1,10 @@
-# One-Word Education Domain Names (82,819)
+# One-Word Education Domain Names (82,802)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C819%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C802%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection contains one-word domain names tagged under the education category, spanning 506 different domain extensions. The median asking price across this set is $638. Updated daily to reflect current listings and pricing across the full range of one-word education domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **82,819 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **82,802 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 82,819 domains · **Median ask:** $566.58 · **High-demand under $2,500:** 263
+**Public extract:** 1,000 rows · **Live catalog:** 82,802 domains · **Median ask:** $566.58 · **High-demand under $2,500:** 263
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/education`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 82,819 live domains                        |
+| 1,000-row public sample | 82,802 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 263 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
