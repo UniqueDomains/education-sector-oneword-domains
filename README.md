@@ -1,10 +1,10 @@
-# One-Word Education Domain Names (82,791)
+# One-Word Education Domain Names (86,034)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C791%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-86%2C034%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection contains one-word domain names tagged under the education category, spanning 506 different domain extensions. The median asking price across this set is $638. Updated daily to reflect current listings and pricing across the full range of one-word education domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **82,791 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **86,034 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 82,791 domains · **Median ask:** $566.58 · **High-demand under $2,500:** 263
+**Public extract:** 1,000 rows · **Live catalog:** 86,034 domains · **Median ask:** $575.22 · **High-demand under $2,500:** 234
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/sector/education`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| education.video    | premium   | $3,250    | $3,250        | high           | low    | 9      | namecheap                           |
-| school.accountants | available | $43.99    | —             | high           | low    | 6      | name.com                            |
-| learning.exchange  | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc                         |
-| school.accountant  | premium   | $437.50   | —             | high           | low    | 6      | name.com                            |
-| school.adult       | available | $166.98   | —             | high           | low    | 6      | namecheap                           |
-| education.net      | resell    | $230,000  | $19.99        | high           | low    | 9      | Domain.com - Network Solutions, LLC |
-| school.actor       | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                            |
-| school.apartments  | available | $19.99    | —             | high           | low    | 6      | name.com                            |
-| school.agency      | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                     |
-| school.airforce    | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                            |
-| school.audio       | available | $104.99   | $114.99       | high           | low    | 6      | namesilo                            |
-| school.blue        | resell    | —         | —             | high           | low    | 6      | DNSPod, Inc.                        |
-| school.archi       | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                            |
-| school.auto        | available | $1,999.99 | $2,199        | high           | low    | 6      | namesilo                            |
-| school.broker      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                         |
-| school.associates  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                            |
-| school.barcelona   | available | $38.98    | —             | high           | low    | 6      | namecheap                           |
-| school.ca          | resell    | —         | —             | high           | low    | 6      | CanSpace Solutions Inc.             |
-| school.attorney    | premium   | $1,107    | $1,107        | high           | low    | 6      | namesilo                            |
-| school.bayern      | available | $34.99    | $34.99        | high           | low    | 6      | namesilo                            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| quiz.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap                  |
+| education.tax     | resell    | $14.99    | —             | medium         | low    | 9      | name.com                   |
+| home.bio          | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG   |
+| step.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap                  |
+| page.plus         | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                |
+| grade.fishing     | premium   | $47.20    | $29.50        | medium         | low    | 5      | namesilo                   |
+| award.ryukyu      | available | $22.98    | —             | high           | low    | 5      | namecheap                  |
+| grade.today       | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC - 16          |
+| grade.health      | premium   | $625      | $108.99       | medium         | low    | 5      | name.com                   |
+| grade.army        | available | $17.48    | $48.98        | medium         | low    | 5      | namecheap                  |
+| grade.world       | resell    | —         | —             | medium         | low    | 5      | Squarespace Domains II LLC |
+| grade.nyc         | premium   | $625      | $46.99        | medium         | low    | 5      | name.com                   |
+| grade.bio         | available | $5.98     | $84.98        | medium         | low    | 5      | namecheap                  |
+| music.style       | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC               |
+| guide.mobile      | premium   | $2,500    | —             | high           | low    | 5      | name.com                   |
+| grade.contractors | available | $9.99     | $45.99        | medium         | low    | 5      | name.com                   |
+| study.law         | resell    | —         | —             | medium         | low    | 5      | —                          |
+| guide.shop        | premium   | $3,125    | —             | high           | low    | 5      | name.com                   |
+| grade.cool        | available | $5.98     | $50.98        | medium         | low    | 5      | namecheap                  |
+| assess.xyz        | resell    | —         | —             | high           | low    | 6      | Dynadot LLC                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 82,791 live domains                        |
+| 1,000-row public sample | 86,034 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 263 high-demand names under $2,500         |
+| Basic exported fields   | 234 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Education Domain Names*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Education Domain Names*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
