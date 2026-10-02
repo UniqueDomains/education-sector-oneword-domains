@@ -1,10 +1,10 @@
-# One-Word Education Domain Names (135,328)
+# One-Word Education Domain Names (138,941)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-135%2C328%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-138%2C941%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection contains one-word domain names tagged under the education category, spanning 506 different domain extensions. The median asking price across this set is $638. Updated daily to reflect current listings and pricing across the full range of one-word education domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **135,328 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **138,941 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 135,328 domains · **Median ask:** $352.93 · **High-demand under $2,500:** 135
+**Public extract:** 1,000 rows · **Live catalog:** 138,941 domains · **Median ask:** $344.26 · **High-demand under $2,500:** 141
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/sector/education`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| study.schule       | available | $28.99    | $28.99        | high           | low    | 5      | namesilo                                            |
-| school.casino      | resell    | $12.79    | $159.99       | high           | low    | 6      | Spaceship, Inc.                                     |
-| study.degree       | premium   | $78       | $78           | high           | low    | 5      | namecheap                                           |
+| study.realty       | available | $99.80    | $456.98       | high           | low    | 5      | namecheap                                           |
+| school.clothing    | resell    | $19.99    | —             | high           | low    | 6      | One.com A/S                                         |
+| study.college      | premium   | $550      | $550          | high           | low    | 5      | dynadot                                             |
 | school.accountants | available | $90.20    | $90.20        | high           | low    | 6      | cloudflare                                          |
 | learning.exchange  | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc                                         |
-| school.accountant  | premium   | $362.45   | $51.95        | high           | low    | 6      | spaceship                                           |
-| school.audio       | available | $93.35    | $103.40       | high           | low    | 6      | spaceship                                           |
-| learning.fashion   | resell    | $32.49    | $32.49        | high           | low    | 8      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| school.actor       | premium   | $68.51    | $68.51        | high           | low    | 6      | spaceship                                           |
-| school.auto        | available | $1,863.20 | $2,064.20     | high           | low    | 6      | spaceship                                           |
+| study.onl          | premium   | $162.50   | $325          | high           | low    | 5      | namecheap                                           |
+| school.adult       | available | $51.95    | $98.53        | high           | low    | 6      | spaceship                                           |
 | education.tax      | resell    | $14.99    | —             | high           | low    | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| school.airforce    | premium   | $68.51    | $68.51        | high           | low    | 6      | spaceship                                           |
+| study.phd          | premium   | $671.92   | $671.92       | high           | low    | 5      | spaceship                                           |
+| school.apartments  | available | $10.81    | $45.83        | high           | low    | 6      | porkbun                                             |
+| study.school       | resell    | —         | —             | high           | low    | 5      | Name.com, Inc.                                      |
+| study.prof         | premium   | $671.92   | $671.92       | high           | low    | 5      | spaceship                                           |
 | school.barcelona   | available | $25.04    | $25.04        | high           | low    | 6      | spaceship                                           |
-| school.blue        | resell    | —         | —             | high           | low    | 6      | DNSPod, Inc.                                        |
-| school.archi       | premium   | $99.50    | $118.80       | high           | low    | 6      | unstoppable                                         |
-| school.bingo       | available | $42.64    | $42.64        | high           | low    | 6      | spaceship                                           |
-| school.broker      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                         |
-| school.associates  | premium   | $102.67   | $102.67       | high           | low    | 6      | spaceship                                           |
-| school.builders    | available | $4.63     | $28.32        | high           | low    | 6      | porkbun                                             |
-| school.city        | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                                     |
+| study.university   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                         |
+| study.shiksha      | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo                                            |
+| school.bayern      | available | $31.99    | $30.80        | high           | low    | 6      | porkbun                                             |
+| school.agency      | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                                     |
+| school.airforce    | premium   | $68.51    | $68.51        | high           | low    | 6      | spaceship                                           |
+| school.blackfriday | available | $103.70   | $103.70       | high           | low    | 6      | spaceship                                           |
+| school.ai          | resell    | —         | —             | high           | low    | 6      | Name.com, Inc.                                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 135,328 live domains                       |
+| 1,000-row public sample | 138,941 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 135 high-demand names under $2,500         |
+| Basic exported fields   | 141 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Education Domain Names*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Education Domain Names*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
