@@ -60,7 +60,6 @@ a30f2e73-7ef5-4856-bd49-d15d7f9d29c4,education.limited,premium,78.54,78.54,high,
 d86fd5bd-57b7-4cf4-b82d-73cfdb8507b6,education.auto,available,1863.2,2064.2,high,medium,9,spaceship,,,23/10/2026 00:35
 3f9a66fb-3a1f-402a-b94d-8b0b98305839,education.plumbing,available,85.48,99.98,high,medium,9,namecheap,,,23/10/2026 00:35
 cc6cc001-7943-4572-ad35-62207c4f4ac2,education.berlin,premium,987.47,54.1,high,medium,9,dynadot,,,23/10/2026 00:35
-1572f6ea-8934-4da8-ab3e-8c616013f9c9,learning.institute,resell,,,high,medium,8,"Spaceship, Inc.",15/07/2015 16:00,15/07/2027 16:00,22/10/2026 09:40
 b00f1e73-5914-4968-b8d0-a913d03dd872,education.rich,available,94.99,1999,high,medium,9,namesilo,,,23/10/2026 00:35
 c8e232d7-c175-4ec9-8c45-677592245078,education.cloud,premium,2660,2660,high,medium,9,namesilo,,,23/10/2026 00:35
 3328d027-e97d-4991-922c-8342b174bf44,education.social,premium,218.8,437.19,high,medium,9,porkbun,,,23/10/2026 00:35
@@ -123,7 +122,6 @@ b7002b39-5f0e-4b85-9501-be44bc6caa3a,education.paris,available,,,high,low,9,,,,2
 6a6acfd4-1fa4-4733-b59c-d22f47cfc531,education.solar,premium,512,512,high,medium,9,namesilo,,,23/10/2026 00:35
 4068eeb7-7ded-4ca0-9f8e-268df93b7d4c,education.energy,resell,,,high,medium,9,"Spaceship, Inc.",19/07/2026 17:01,19/07/2027 17:01,23/10/2026 00:35
 465e72c2-2cdc-41e0-9e7b-12d03c2f21ad,education.catering,premium,102.67,102.67,high,medium,9,spaceship,,,23/10/2026 00:35
-2c1dd1c1-e1ac-489f-ad80-15a09217372d,learning.academy,resell,,,high,medium,8,Dynadot Inc,30/07/2015 01:11,30/07/2027 01:11,22/10/2026 09:40
 89ccfd0d-eb2d-4167-90b8-92971d215fe4,education.group,resell,,,high,medium,9,Dynadot Inc,08/06/2016 16:00,08/06/2027 16:00,23/10/2026 00:35
 8b98d1de-040d-4db2-915f-5beaf24260cd,education.singles,available,26.2,26.2,high,medium,9,cloudflare,,,23/10/2026 00:35
 e381b51e-4721-42f4-8bb0-6774af46e52c,education.equipment,resell,,,high,medium,9,"Sav.com, LLC - 18",15/05/2026 15:15,15/05/2027 15:15,23/10/2026 00:35
@@ -183,6 +181,7 @@ d347cd97-c42f-4cea-9d89-c7b6bf1c995a,education.icu,premium,68.43,147.2,high,medi
 38bc1a8a-cee0-4684-8a17-07ebadae1707,education.vet,premium,621.2,621.2,high,medium,9,spaceship,,,23/10/2026 00:35
 6bcb0af7-8455-4058-b936-6b843008312f,education.me,premium,6970.19,16.26,high,medium,9,spaceship,,,23/10/2026 00:35
 4c1c97a1-f15e-4906-b944-fabed716781a,education.trading,premium,,,high,medium,9,,,,23/10/2026 00:35
+b514b638-0d9d-4a07-a760-4a5ead9823dc,learning.phd,premium,649.2,671.92,high,high,8,unstoppable,,,24/10/2026 03:00
 37490249-ba4c-4b01-978c-51cba15c2de2,education.pink,premium,640,640,high,medium,9,namesilo,,,23/10/2026 00:35
 4249828d-5f38-4837-b5a5-1506bb97abdf,education.support,premium,118.8,118.8,high,medium,9,namesilo,,,23/10/2026 00:35
 3ee4bf13-144d-4926-948f-c6ce59da5263,education.healthcare,available,80.47,80.47,high,medium,9,dynadot,,,23/10/2026 00:35
@@ -194,6 +193,7 @@ fa8a564e-21ff-4775-90d9-14434996f15d,education.security,available,2000.2,2000.2,
 78526ea7-22ac-497f-a464-576ce845ad22,education.voting,available,978.6,978.6,high,medium,9,dynadot,,,23/10/2026 00:35
 e9118559-ac1a-4555-bc22-3f61190c18fb,education.dad,premium,516.67,516.67,high,medium,9,spaceship,,,23/10/2026 00:35
 dc5da76f-bb52-4845-a883-992d5a2d690f,education.lol,premium,832,832,high,medium,9,namesilo,,,23/10/2026 00:35
+f282a9fc-1043-405e-b0d1-50b61e42829d,learning.college,premium,517.7,517.7,high,high,8,spaceship,,,24/10/2026 03:00
 30d75dba-8f48-4318-b83d-6d4f63715df4,education.auction,premium,1107,1107,high,medium,9,namesilo,,,23/10/2026 00:35
 b583c1ea-7992-4aa8-9080-460641fef012,education.discount,premium,220,220,high,medium,9,dynadot,,,23/10/2026 00:35
 8157c545-f0d8-4639-be5e-4092765b3211,education.review,premium,5500,110,high,medium,9,dynadot,,,23/10/2026 00:35
@@ -208,14 +208,12 @@ f7d63063-8fd7-40cf-b007-e812c4c8dff7,education.online,premium,34500,34500,high,m
 78ec685a-b2d9-4eb8-845f-f172ead9f4f0,education.pw,resell,,,high,medium,9,"Chengdu West Dimension Digital Technology Co., Ltd.",01/06/2017 00:57,01/06/2028 23:59,23/10/2026 00:35
 2a2c803e-fa49-46b6-8670-3ee888f40a0e,education.enterprises,available,9.48,53.48,high,medium,9,namecheap,,,23/10/2026 00:35
 02292492-2e4f-435e-aca7-55ef270904c4,education.hospital,available,45.74,45.74,high,medium,9,spaceship,,,23/10/2026 00:35
-b514b638-0d9d-4a07-a760-4a5ead9823dc,learning.phd,premium,649.2,671.92,high,medium,8,unstoppable,,,22/10/2026 09:40
 1f99a643-2206-4e62-801e-2e846f3db11d,education.archi,available,13.14,83,high,medium,9,spaceship,,,23/10/2026 00:35
 abc7c8c4-0487-402b-b44d-c43afabefecb,education.skin,premium,2600,2600,high,medium,9,namecheap,,,23/10/2026 00:35
 c81264b4-a1d3-41d6-a00c-ede14b52ece3,education.claims,premium,66.5,78.54,high,medium,9,unstoppable,,,23/10/2026 00:35
 4b1c6173-3f4d-4f23-bbe0-f3fe351dc43e,education.marketing,resell,,,high,medium,9,"Sav.com, LLC",14/12/2025 08:42,14/12/2026 08:42,23/10/2026 00:35
 a5c01fd7-6944-4ce1-b9f3-d00bd35645f9,education.art,premium,3450,83.3,high,medium,9,namesilo,,,23/10/2026 00:35
 0daea458-52aa-4a03-9b09-64ba7f02ac06,education.locker,premium,318.46,8.8,high,medium,9,namesilo,,,23/10/2026 00:35
-f282a9fc-1043-405e-b0d1-50b61e42829d,learning.college,premium,517.7,517.7,high,medium,8,spaceship,,,22/10/2026 09:40
 9e20c0b5-49cc-46fb-8934-2e2da1a936b8,education.condos,premium,102.67,102.67,high,medium,9,spaceship,,,23/10/2026 00:35
 3aa7d8d9-ae98-4891-b5b4-069f97e25152,education.viajes,available,99.99,99.99,high,medium,9,namesilo,,,23/10/2026 00:35
 e48378e4-869a-4708-9256-8731e9ae851a,education.menu,available,27.99,27.99,high,medium,9,namesilo,,,23/10/2026 00:35
@@ -229,9 +227,11 @@ e48378e4-869a-4708-9256-8731e9ae851a,education.menu,available,27.99,27.99,high,m
 f0ac3ed0-9718-4aa1-8ffc-1d9bc8890159,education.cheap,available,8.5,30.18,high,medium,9,unstoppable,,,23/10/2026 00:35
 e3251949-7423-4997-8d1c-469b262e1d86,education.ski,premium,118.8,118.8,high,medium,9,namesilo,,,23/10/2026 00:35
 8902675f-e0f5-4a3d-bae3-f6fdc9f706c9,education.sale,premium,512,512,high,medium,9,namesilo,,,23/10/2026 00:35
+9123f0c6-9164-403b-85e9-3e701a4d7763,learning.schule,available,10.81,26.26,high,high,8,porkbun,,,24/10/2026 03:00
 74e538c9-6276-4b13-9b4d-b2f51e0fd3ba,education.lawyer,premium,3450,3450,high,medium,9,namesilo,,,23/10/2026 00:35
 babe3873-77ed-4a4b-b530-e82f715de7af,education.consulting,premium,512,512,high,medium,9,namesilo,,,23/10/2026 00:35
 71848364-603e-4d2f-8d2f-7b05e2012792,education.hair,premium,2070.2,2070.2,high,medium,9,spaceship,,,23/10/2026 00:35
+8face361-2cc6-42c1-bbdc-1d7ec7bd7a8f,learning.degree,available,40.2,40.2,high,high,8,cloudflare,,,24/10/2026 03:00
 15b27206-831c-4f7d-94df-b39058612bbc,education.watch,premium,200.5,207.2,high,medium,9,unstoppable,,,23/10/2026 00:35
 6a4bfd67-d86d-44af-bb65-b0c2131305bb,education.football,available,20.2,20.2,high,medium,9,cloudflare,,,23/10/2026 00:35
 6acfe7d5-65fa-4c3a-b9d3-d3e80f978981,education.photo,premium,116,116,high,medium,9,namesilo,,,23/10/2026 00:35
@@ -241,14 +241,12 @@ fcea1cbf-036a-46b1-b3c0-c0b3dc6668f7,education.storage,available,538.98,858,high
 575685a2-03d6-4f2c-a69e-47c2eed575a7,education.kaufen,available,23.2,23.2,high,medium,9,cloudflare,,,23/10/2026 00:35
 e34bfd26-de41-45f7-ad5e-3eb5a7c3fe3c,education.republican,premium,207.2,207.2,high,medium,9,spaceship,,,23/10/2026 00:35
 89906a7c-1e47-41e0-b3c3-e34d2773a539,education.gratis,premium,108.9,108.9,high,medium,9,dynadot,,,23/10/2026 00:35
-9123f0c6-9164-403b-85e9-3e701a4d7763,learning.schule,available,34.99,34.99,high,medium,8,namesilo,,,22/10/2026 09:40
 936d757e-5297-45be-afa4-c73962818a37,education.run,resell,,,high,medium,9,"Xiamen ChinaSource Internet Service Co., Ltd",07/09/2015 09:19,07/09/2027 09:19,23/10/2026 00:35
 ae962cb5-ed36-4f82-af1d-48be5e3deb5a,education.bot,resell,,,high,medium,9,"Spaceship, Inc.",21/05/2025 03:55,21/05/2027 03:55,23/10/2026 00:35
 e21192a1-6e1a-4fed-aec2-01c1c2c59d59,education.red,available,11,23.49,high,medium,9,unstoppable,,,23/10/2026 00:35
 72265618-94f9-4cd0-8355-c16b3fc29f44,education.careers,available,,,high,low,9,,,,23/10/2026 09:23
 6bb879d9-a2ba-49fd-a175-e7c47d748cb0,education.pet,premium,546.56,1092.18,high,medium,9,porkbun,,,23/10/2026 00:35
 0dabfaef-66a7-45c9-bc4e-8a0e586614de,education.love,premium,2898.2,4140.2,high,medium,9,spaceship,,,23/10/2026 00:35
-8face361-2cc6-42c1-bbdc-1d7ec7bd7a8f,learning.degree,available,79.99,79.99,high,medium,8,godaddy,,,22/10/2026 09:40
 efd8d4e1-a0de-4fb7-818a-ddbb0ce2b8aa,education.diet,available,104.99,114.99,high,medium,9,namesilo,,,23/10/2026 00:35
 50e505d8-1bf4-4141-a256-9c6612c0f0b6,education.trade,resell,,,high,medium,9,"Spaceship, Inc.",29/07/2019 13:10,29/07/2027 13:10,23/10/2026 00:35
 6d278ab6-6c77-47d8-83e5-83cf5d0ec506,education.mov,premium,133.72,133.72,high,medium,9,spaceship,,,23/10/2026 00:35
@@ -258,220 +256,224 @@ d0ede1fa-fd9b-45a3-8311-adbe2d38acf7,education.vin,premium,108.9,108.9,high,medi
 d0008f9e-0a4d-4679-bae3-c201312e022b,education.fitness,premium,54.36,108.6,high,medium,9,porkbun,,,23/10/2026 00:35
 2f08aedc-9140-4278-b78d-8d0d16ef47b8,education.uno,premium,5175.2,5175.2,high,medium,9,spaceship,,,23/10/2026 00:35
 bc1f95d0-fd00-4a6f-8061-8e0e776d858c,education.sexy,available,2749.99,2749.99,high,medium,9,namesilo,,,23/10/2026 00:35
+af3ab018-b685-4368-b9b8-545f7d44f479,learning.locker,premium,1035.2,31.25,high,high,8,spaceship,,,24/10/2026 03:00
+9f5466d3-b7a4-44ae-a6a9-07260c9c9710,learning.immo,available,27.2,27.2,high,high,8,cloudflare,,,24/10/2026 03:00
+c3beb882-0e0f-4ae3-8560-09228a1f3ea3,learning.ltda,premium,56.64,33.04,high,high,8,namesilo,,,24/10/2026 03:00
 d14453f9-417b-4689-aaac-67f6d6a934ce,education.attorney,premium,3450,3450,high,medium,9,namesilo,,,23/10/2026 00:35
 6100190b-f643-4e8d-94bd-79035e294194,education.systems,resell,,,high,medium,9,"GoDaddy.com, LLC",19/03/2014 16:00,19/03/2027 16:00,23/10/2026 00:35
 920b7965-4970-4632-9d67-ca313dcba7c5,education.juegos,available,321.22,321.22,high,medium,9,dynadot,,,23/10/2026 00:35
 641781b0-a1ba-4cbf-a7b2-a250a4ffcbfe,school.foo,premium,545.26,545.26,high,medium,6,porkbun,,,22/10/2026 20:33
+ae66e93c-695d-417b-a607-41611b8b0bb4,learning.love,premium,302.5,302.5,high,high,8,namesilo,,,24/10/2026 03:00
 3f59b430-0551-43ec-85ce-abaf5712d9f3,education.protection,available,2064.2,2064.2,high,medium,9,spaceship,,,23/10/2026 00:35
 8aab4318-e239-4858-b6a5-4d0338121472,education.cc,resell,,,high,medium,9,"eName Technology Co., Ltd.",19/12/2012 09:03,19/12/2026 09:03,23/10/2026 00:35
 86463f1d-69f5-4890-9c32-5e25623d5ed6,education.spot,premium,640,640,high,medium,9,namesilo,,,23/10/2026 00:35
+478a6b32-2ca6-43c9-9958-aa04660ac886,learning.credit,available,80.2,80.2,high,high,8,cloudflare,,,24/10/2026 03:00
 b89c0c64-81f4-4757-bb65-7c632867ec07,education.rest,premium,576,576,high,medium,9,namesilo,,,23/10/2026 00:35
 d25cf471-8882-4c8b-a800-6a8ba4cb3d76,school.so,resell,,,high,medium,6,SOSTEC TECHNOLOGIES_LR,15/06/2025 05:00,15/06/2026 05:00,
 332c858b-f747-41cc-8cd0-25c91e1f5dfb,education.tours,premium,118.8,118.8,high,medium,9,namesilo,,,23/10/2026 00:35
 87c5fd87-a3b2-464f-9fff-4fe72254af84,education.voto,premium,54.36,108.6,high,medium,9,porkbun,,,23/10/2026 00:35
-e428dbea-41f1-4f87-b5cd-e1151434e96b,learning.ai,resell,,,high,medium,8,Porkbun LLC,16/12/2017 00:46,19/01/2027 00:46,22/10/2026 09:40
+12498bfa-7ac6-4f09-b6cc-dd2e160857c2,learning.bike,available,8.24,35.53,high,high,8,porkbun,,,24/10/2026 03:00
 093f86d9-f24d-44de-84ab-0c8becb1b0dc,school.management,resell,,,high,medium,6,Dynadot Inc,24/06/2015 16:00,24/06/2027 16:00,22/10/2026 20:33
+b49e6f8b-f244-4395-8bcf-f3c7f5195e82,learning.game,available,309.99,429.99,high,high,8,namesilo,,,24/10/2026 03:00
 3965adb0-7e0d-49f0-8a1e-161fb0cfa531,school.onl,premium,162.5,325,high,medium,6,namecheap,,,22/10/2026 20:33
 3de8e8c5-95af-4153-8712-7d4742bbfdc7,education.top,premium,360.31,360.31,high,medium,9,namesilo,,,23/10/2026 00:35
-af3ab018-b685-4368-b9b8-545f7d44f479,learning.locker,premium,1300,39,high,medium,8,namecheap,,,22/10/2026 09:40
-9f5466d3-b7a4-44ae-a6a9-07260c9c9710,learning.immo,available,40.98,48.98,high,medium,8,namecheap,,,22/10/2026 09:40
+67e3d534-309e-4d1e-94c5-605216143991,learning.forsale,available,12.62,29.18,high,high,8,spaceship,,,24/10/2026 03:00
+84df3a90-a8cb-4b11-9498-9bbd410da9e9,learning.shiksha,premium,600.5,780,high,high,8,unstoppable,,,24/10/2026 03:00
 a10ce6fc-2feb-47ab-a08e-1f71e404844a,education.theater,available,50.2,50.2,high,medium,9,cloudflare,,,23/10/2026 00:35
 ce7051bf-5b57-4c14-bf9d-54ca889258b5,school.rodeo,premium,220,10.92,high,medium,6,dynadot,,,22/10/2026 20:33
 8ae59ae1-8e8c-44bd-a7ad-2b44438c3af4,education.foo,premium,133.72,133.72,high,medium,9,spaceship,,,23/10/2026 00:35
 b83e8cde-0fd8-4f28-8552-7d922a18bd91,school.claims,available,10.55,51.95,high,medium,6,spaceship,,,22/10/2026 20:33
+29cb8788-2da9-43cc-8178-2944935cd64d,learning.accountants,available,90.2,90.2,high,high,8,cloudflare,,,24/10/2026 03:00
 23982763-b5f5-436c-af1c-6a286e2810e1,education.pictures,resell,,,high,medium,9,"Global Domains International, Inc. DBA DomainCostClub.com",15/12/2022 04:43,15/12/2026 04:43,23/10/2026 00:35
 8ab465b8-58e8-4446-ab4b-4af55d650783,school.place,premium,34.36,68.51,high,medium,6,spaceship,,,22/10/2026 20:33
 a567b5ad-716f-418b-a2b9-58264f3e56cc,school.hospital,available,56.13,56.13,high,medium,6,porkbun,,,22/10/2026 20:33
 bc428a06-6ea6-4031-965d-c1ab17065a00,school.gratis,premium,118.8,118.8,high,medium,6,namesilo,,,22/10/2026 20:33
-340d5798-b2bf-42b9-81e7-c775a51761b5,learning.chat,resell,,,high,medium,8,UM DOMAINS PTE. LTD,17/03/2026 15:15,17/03/2027 15:15,22/10/2026 09:40
-c3beb882-0e0f-4ae3-8560-09228a1f3ea3,learning.ltda,premium,56.64,33.04,high,medium,8,namesilo,,,22/10/2026 09:40
-9470436b-afaa-483f-b870-ed89183b5a0e,learning.city,resell,,,high,medium,8,"DNSPod, Inc.",04/01/2021 08:21,04/01/2027 08:21,22/10/2026 09:40
+573872cf-1970-4cfb-b7f1-5c42f3a82b09,learning.ing,premium,117,117,high,high,8,namecheap,,,24/10/2026 03:00
+ac23ba99-ce94-4f7e-ab30-3b541d11d49a,learning.reisen,available,16.2,16.2,high,high,8,cloudflare,,,24/10/2026 03:00
 47ea1834-8cfa-4404-b107-5a0d39a57946,education.rehab,premium,1300,1300,high,medium,9,namecheap,,,23/10/2026 00:35
 5c420cfa-814f-4d7e-82de-290c52d562f8,education.email,resell,,,high,medium,9,"Global Domains International, Inc. DBA DomainCostClub.com",04/04/2026 15:15,04/04/2027 15:15,23/10/2026 00:35
+352715be-2d0b-49fa-8d23-c683f5f63dd0,learning.stream,premium,2750,110,high,high,8,dynadot,,,24/10/2026 03:00
 526cd825-16d0-462c-8b0c-94b72a582cbf,education.deal,premium,640,640,high,medium,9,namesilo,,,23/10/2026 00:35
-ae66e93c-695d-417b-a607-41611b8b0bb4,learning.love,premium,302.5,302.5,high,medium,8,namesilo,,,22/10/2026 09:40
-478a6b32-2ca6-43c9-9958-aa04660ac886,learning.credit,available,8.48,83,high,medium,8,spaceship,,,22/10/2026 09:40
+79323d74-dfac-4206-ad5c-99fc7e1426f3,learning.cloud,premium,2660,2660,high,high,8,namesilo,,,24/10/2026 03:00
+99137713-2726-40b6-a54d-712a66f63ca6,learning.auction,available,28.2,28.2,high,high,8,cloudflare,,,24/10/2026 03:00
 d8e1feb3-81a5-4dc1-8414-f8767fcbe285,education.repair,available,5.38,29.18,high,medium,9,spaceship,,,23/10/2026 00:35
 6ab9b66a-0e1d-4138-b534-0be5bd10d359,education.film,premium,220,220,high,medium,9,dynadot,,,23/10/2026 00:35
 af075bb3-b134-4fb9-ac14-2cbf123fbe91,school.enterprises,available,11,32.32,high,medium,6,unstoppable,,,22/10/2026 20:33
 4c1c5d08-3f55-424d-ad35-6f9528aa569f,education.surf,premium,242,29.5,high,medium,9,namesilo,,,23/10/2026 00:35
+c2ff06e3-a7ed-4300-ae5a-3620e665e369,learning.fish,available,36.43,36.43,high,high,8,spaceship,,,24/10/2026 03:00
+91ba9fe1-fb77-4957-8191-f9fbfac774d3,learning.yachts,available,1.99,17.29,high,high,8,namesilo,,,24/10/2026 03:00
 e6f391ef-3797-43bd-a791-e2eba57af463,school.systems,resell,,,high,medium,6,"GoDaddy.com, LLC",14/04/2026 11:33,14/04/2027 11:33,22/10/2026 20:33
 da1e7e19-bb07-44e3-a4bc-2b3f0f15dd62,education.productions,premium,242,242,high,medium,9,namesilo,,,23/10/2026 00:35
+ba93903d-16fc-4b7c-8890-3be3b314ca2d,learning.sarl,available,6.99,6.99,high,high,8,namesilo,,,24/10/2026 03:00
 db491258-3e39-4bc8-aaad-75f4bb84ee50,school.ceo,premium,254.72,254.72,high,medium,6,namesilo,,,22/10/2026 20:33
 7dd22bf8-00a6-4766-a333-f52be13d74fc,school.flowers,available,103.5,103.5,high,medium,6,porkbun,,,22/10/2026 20:33
-12498bfa-7ac6-4f09-b6cc-dd2e160857c2,learning.bike,available,9.99,67.99,high,medium,8,godaddy,,,22/10/2026 09:40
 1a946f7e-7b6c-44b9-be0c-4990df7f24fd,school.london,premium,554.85,27.93,high,medium,6,spaceship,,,22/10/2026 20:33
 aac6b93b-be3a-4899-a006-3c0e0098b308,school.tattoo,premium,116,116,high,medium,6,namesilo,,,22/10/2026 20:33
-b49e6f8b-f244-4395-8bcf-f3c7f5195e82,learning.game,available,279.65,341.75,high,medium,8,spaceship,,,22/10/2026 09:40
 719073f3-ea60-4273-9327-947cf2c4e75c,education.cv,premium,1042.76,7.76,high,medium,9,spaceship,,,23/10/2026 00:35
 f7ae4f0f-d722-4369-a587-02c37efd079f,education.host,premium,1638.01,3275.5,high,medium,9,porkbun,,,23/10/2026 00:35
 24e32095-43ca-4b50-9e43-55964fbbffae,school.lat,resell,,,high,medium,6,Dynadot Inc,20/07/2026 10:28,20/07/2027 23:59,22/10/2026 20:33
 a7ce2ffc-2604-418a-930f-74e3158b7fbe,education.recipes,available,8.99,77.99,high,medium,9,namesilo,,,23/10/2026 00:35
-84df3a90-a8cb-4b11-9498-9bbd410da9e9,learning.shiksha,premium,780,780,high,medium,8,namecheap,,,22/10/2026 09:40
 7f2a6a3c-6487-4ccf-b038-6c6cd459b909,teaching.education,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",05/11/2015 01:51,05/11/2027 01:51,18/10/2026 05:57
 aa96d666-56dc-4efd-aa6c-4ef073eea640,school.foundation,premium,242,242,high,medium,6,namesilo,,,22/10/2026 20:33
 48bcfbb6-88a2-4fcf-8995-4b15c3d73577,school.contractors,available,28.15,28.15,high,medium,6,spaceship,,,22/10/2026 20:33
 8564e670-3c5f-43c0-bb05-965136962500,education.tv,resell,,,high,medium,9,Dynadot Inc,21/12/2017 09:04,21/12/2027 09:04,23/10/2026 00:35
 c99893cd-3289-41f9-9995-054aa2118fd8,education.glass,premium,512,512,high,medium,9,namesilo,,,23/10/2026 00:35
+bcf53fd9-1198-4984-99f2-963c3a3ac5c3,learning.tickets,available,359.99,488.88,high,high,8,namesilo,,,24/10/2026 03:00
 b6745b62-a27d-440c-9770-7be0cf0cb17f,school.soy,premium,499.2,545.26,high,medium,6,unstoppable,,,22/10/2026 20:33
-67e3d534-309e-4d1e-94c5-605216143991,learning.forsale,available,19.99,59.99,high,medium,8,godaddy,,,22/10/2026 09:40
-672dd10e-fc07-4a26-8661-ed12bc6698c6,learning.domains,resell,,,high,medium,8,"GoDaddy.com, LLC",13/03/2014 01:40,13/03/2029 01:40,22/10/2026 09:40
-573872cf-1970-4cfb-b7f1-5c42f3a82b09,learning.ing,premium,93.35,93.35,high,medium,8,spaceship,,,22/10/2026 09:40
+5d684a50-f277-48dc-bb70-cbb9ee683e16,learning.science,premium,,,high,high,8,"GoDaddy.com, LLC",23/01/2024 21:34,23/01/2029 21:34,24/10/2026 03:00
 e8db1c7b-949d-40c1-9199-a8726f5d8be7,school.recipes,available,4.86,62.3,high,medium,6,spaceship,,,22/10/2026 20:33
 4a5da53b-6c40-4ef2-97c5-f930f8690e20,education.engineer,premium,1650,1650,high,medium,9,dynadot,,,23/10/2026 00:35
+06b0eaf3-2e42-49d3-92c4-9665cc3b93cb,learning.boo,premium,499.2,516.67,high,high,8,unstoppable,,,24/10/2026 03:00
 4222bd7f-74ae-4955-bad2-bf099b5f3cbe,school.studio,premium,103.7,207.2,high,medium,6,spaceship,,,22/10/2026 20:33
-ac23ba99-ce94-4f7e-ab30-3b541d11d49a,learning.reisen,available,3.99,20.99,high,medium,8,namesilo,,,22/10/2026 09:40
-29cb8788-2da9-43cc-8178-2944935cd64d,learning.accountants,available,117.99,117.99,high,medium,8,namesilo,,,22/10/2026 09:40
+4460536b-ebe9-46f1-a1ee-01ae56c429bb,learning.photo,premium,103.7,103.7,high,high,8,spaceship,,,24/10/2026 03:00
+89d2b132-72bc-4da5-a25d-5562859346dc,learning.tattoo,available,1.75,31.25,high,high,8,spaceship,,,24/10/2026 03:00
 5ae45c78-0efe-4256-9fab-f3d7a75183dc,education.cruises,premium,220,220,high,medium,9,dynadot,,,23/10/2026 00:35
 5e0f580b-70bd-4b73-afc2-24120c0bce0c,school.dating,premium,118.8,118.8,high,medium,6,namesilo,,,22/10/2026 20:33
+011f6a6f-94aa-4026-83f2-6f2c4d913fb7,learning.consulting,premium,,,high,high,8,"Go Australia Domains, LLC",23/07/2014 17:00,23/07/2027 17:00,24/10/2026 03:00
 362ee503-0fc4-482e-98ab-0e4fd7e1e780,school.locker,premium,5175.2,31.25,high,medium,6,spaceship,,,22/10/2026 20:33
-352715be-2d0b-49fa-8d23-c683f5f63dd0,learning.stream,premium,3450,116,high,medium,8,namesilo,,,22/10/2026 09:40
 9a376fed-5b50-478e-8716-c391c8f20d31,school.inc,premium,1604.45,2070.2,high,medium,6,spaceship,,,22/10/2026 20:33
 8aa2f4e5-4f2b-47c3-bdd1-3672affb39cb,education.immobilien,available,30.22,30.22,high,medium,9,spaceship,,,23/10/2026 00:35
-99137713-2726-40b6-a54d-712a66f63ca6,learning.auction,available,38.98,46.98,high,medium,8,namecheap,,,22/10/2026 09:40
 70582e92-c0da-49b8-a10e-7e2056525bbb,school.ai,resell,,,high,medium,6,"Name.com, Inc.",20/04/2018 16:02,20/04/2030 16:02,22/10/2026 20:33
+dc1e8081-e3f3-47ef-acf5-822a738b78df,learning.xxx,available,53.72,101.87,high,high,8,dynadot,,,24/10/2026 03:00
+30d7f394-b9c9-4f73-924b-5fc3ac4e25dd,learning.kiwi,available,21.7,21.7,high,high,8,dynadot,,,24/10/2026 03:00
+30249623-818f-46c4-880e-40ed0f20e99b,learning.theatre,available,515.45,515.45,high,high,8,porkbun,,,24/10/2026 03:00
 34679fc0-f81d-4f56-90cd-df2d4199aa60,school.bayern,available,34.99,34.99,high,medium,6,namesilo,,,22/10/2026 20:33
-c2ff06e3-a7ed-4300-ae5a-3620e665e369,learning.fish,available,75.99,75.99,high,medium,8,godaddy,,,22/10/2026 09:40
+d6581954-b26c-4376-bec7-33f9e3ba5b8e,learning.rent,available,17.99,59.99,high,high,8,namesilo,,,24/10/2026 03:00
 af5999e7-ac54-4257-bf44-4a2b63f43b05,education.rip,available,18.83,18.83,high,medium,9,spaceship,,,23/10/2026 00:35
-17c02381-86b4-4503-a909-d46b56089223,learning.wiki,resell,,,high,medium,8,"DNSPod, Inc.",15/07/2024 00:00,15/07/2027 00:00,22/10/2026 09:40
-91ba9fe1-fb77-4957-8191-f9fbfac774d3,learning.yachts,available,1.24,13.97,high,medium,8,spaceship,,,22/10/2026 09:40
 26b51a96-90ef-4e0b-ac1e-d5a219a51c0b,school.bot,premium,2500.5,2729.67,high,medium,6,unstoppable,,,22/10/2026 20:33
-79323d74-dfac-4206-ad5c-99fc7e1426f3,learning.cloud,premium,2660,2660,high,medium,8,namesilo,,,22/10/2026 09:40
-ba93903d-16fc-4b7c-8890-3be3b314ca2d,learning.sarl,available,5.38,5.38,high,medium,8,spaceship,,,22/10/2026 09:40
+a10a8a8a-10dc-4061-9d04-a118d07dbd69,learning.llc,premium,1552.7,1552.7,high,high,8,spaceship,,,24/10/2026 03:00
 386ea1de-6b3d-4806-98ca-be70ffe76c11,school.careers,premium,414.2,414.2,high,medium,6,spaceship,,,22/10/2026 20:33
+0be803c5-63c0-45d7-89ea-a05a9a5c3ecd,learning.download,premium,640,77.35,high,high,8,namesilo,,,24/10/2026 03:00
 20e57edc-bcaf-4f28-a4df-b4edebe255ce,education.irish,available,5.38,17.8,high,medium,9,spaceship,,,23/10/2026 00:35
-c6eaf9b4-9c44-452e-ae4b-2ed16a46ac2c,learning.gold,resell,,,high,medium,8,"DNSPod, Inc.",24/04/2019 19:22,24/04/2027 19:22,22/10/2026 09:40
+443fbbae-f703-46e0-b505-9e5af08ca43a,learning.melbourne,available,58,58,high,high,8,namesilo,,,24/10/2026 03:00
+b5f6bd3d-ad95-4732-99a5-a80a3220e425,learning.nyc,premium,6900,29.5,high,high,8,namesilo,,,24/10/2026 03:00
+194be50e-5c4b-47e8-a8cc-0d8d4548ec1f,learning.clothing,available,32.99,32.99,high,high,8,namesilo,,,24/10/2026 03:00
 913ade09-3656-430b-a6a2-3f65bac9916e,school.meme,premium,672.95,672.95,high,medium,6,spaceship,,,22/10/2026 20:33
 e5e0614c-753c-4425-8069-fa898a46477c,education.bid,resell,,,high,medium,9,Dynadot Inc,26/07/2019 14:50,26/07/2027 14:50,23/10/2026 00:35
+2fab2957-fac3-4daf-adb8-1a9049e04a4c,learning.democrat,available,5.98,8.48,high,high,8,namecheap,,,24/10/2026 03:00
 e782047b-f7f4-4d98-8dac-339a7fa9a25a,education.bike,available,5.38,31.25,high,medium,9,spaceship,,,23/10/2026 00:35
+43775bad-80bd-457d-b9f9-acc9ef0ad1f8,learning.creditcard,available,144.99,144.99,high,high,8,namesilo,,,24/10/2026 03:00
 d2510ff9-274a-4d69-906b-0907886e3873,education.diamonds,available,43.67,43.67,high,medium,9,spaceship,,,23/10/2026 00:35
+3a84b3d5-78c4-429d-83b3-ad793173b2dd,learning.tienda,available,46.2,46.2,high,high,8,cloudflare,,,24/10/2026 03:00
 206c6ca0-7278-415f-a7c3-20bd337d8000,school.horse,premium,414.2,26.08,high,medium,6,spaceship,,,22/10/2026 20:33
 82aa4920-8c4e-4920-b8e6-5a2f261cc19f,school.clothing,resell,19.99,,high,medium,6,One.com A/S,05/07/2026 07:20,05/07/2027 07:20,22/10/2026 20:33
+9fb7e702-894b-4f0e-8593-68b41498ef77,learning.racing,premium,116,116,high,high,8,namesilo,,,24/10/2026 03:00
+b832915e-5af4-4d95-9534-0833044d4128,learning.villas,available,59.99,59.99,high,high,8,namesilo,,,24/10/2026 03:00
 bc419224-9220-4547-85db-4f2a0c0430d5,education.pub,premium,1107,1107,high,medium,9,namesilo,,,23/10/2026 00:35
+3d62b2d2-577c-42ad-ab39-73a3363405cf,learning.cruises,available,56.99,56.99,high,high,8,namesilo,,,24/10/2026 03:00
 c2a61e82-6b8d-411b-9743-db7890df6dba,school.diy,premium,362.45,517.7,high,medium,6,spaceship,,,22/10/2026 20:33
 8733b938-a5fe-4a44-91e2-8851270ce554,education.cyou,resell,,,high,medium,9,"Global Domains International, Inc. DBA DomainCostClub.com",29/07/2020 04:58,29/07/2027 23:59,23/10/2026 00:35
 62ed7c2f-f6ba-4e80-bf9e-8e3549ee7d32,school.rich,available,94.99,1999,high,medium,6,namesilo,,,22/10/2026 20:33
 9cc29f59-8c0b-43a4-ae69-cb7174773e95,education.live,premium,1293.95,2587.7,high,medium,9,spaceship,,,23/10/2026 00:35
-4460536b-ebe9-46f1-a1ee-01ae56c429bb,learning.photo,premium,103.7,103.7,high,medium,8,spaceship,,,22/10/2026 09:40
-89d2b132-72bc-4da5-a25d-5562859346dc,learning.tattoo,available,2.99,34.99,high,medium,8,namesilo,,,22/10/2026 09:40
+a68c704e-c384-4a3c-8297-3803d4f1f7af,learning.website,premium,6900,6900,high,high,8,namesilo,,,24/10/2026 03:00
 08e2913f-81ae-44d2-b4ad-1a79f68857f8,education.toys,resell,,,high,medium,9,Edomains LLC,04/02/2022 13:15,04/02/2027 13:15,23/10/2026 00:35
+eec1a331-51a0-49cc-ae64-650e65370ca4,learning.place,premium,220,220,high,high,8,dynadot,,,24/10/2026 03:00
 2ce694f1-e356-4772-b1d4-4de93579ea2d,school.host,premium,1107,1107,high,medium,6,namesilo,,,22/10/2026 20:33
-bcf53fd9-1198-4984-99f2-963c3a3ac5c3,learning.tickets,available,359.99,488.88,high,medium,8,namesilo,,,22/10/2026 09:40
+a1a41485-489f-4008-b412-7b7643db07e6,learning.sexy,available,2587.7,2587.7,high,high,8,spaceship,,,24/10/2026 03:00
 2d31dcd4-d617-4281-9a43-1fb01bb6257a,school.style,premium,68.51,68.51,high,medium,6,spaceship,,,22/10/2026 20:33
 6670497f-f69e-4f99-bcc3-8dc55a46a331,school.market,premium,414.2,414.2,high,medium,6,spaceship,,,22/10/2026 20:33
 1287ef01-48fb-459f-853e-1f232511fcdc,education.meme,premium,155.45,155.45,high,medium,9,spaceship,,,23/10/2026 00:35
-06b0eaf3-2e42-49d3-92c4-9665cc3b93cb,learning.boo,premium,516.67,516.67,high,medium,8,spaceship,,,22/10/2026 09:40
 ced4e41b-4636-49fc-83cf-3ff06e478112,education.sex,resell,,,high,medium,9,"Name.com, Inc.",09/06/2017 14:25,09/06/2027 14:25,23/10/2026 00:35
 c51d8e01-baff-4cb6-a77c-694e3b229779,school.red,resell,,,high,medium,6,Squarespace Domains II LLC,06/11/2015 13:24,06/11/2028 13:24,22/10/2026 20:33
-dc1e8081-e3f3-47ef-acf5-822a738b78df,learning.xxx,available,69.98,154.98,high,medium,8,namecheap,,,22/10/2026 09:40
-30d7f394-b9c9-4f73-924b-5fc3ac4e25dd,learning.kiwi,available,39.99,39.99,high,medium,8,godaddy,,,22/10/2026 09:40
 cb32251c-96ae-468e-b267-933479867cd1,education.vegas,premium,242,119.94,high,medium,9,namesilo,,,23/10/2026 00:35
 a309913a-88d5-42ee-b0e2-c3423f9c24fe,school.finance,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",11/04/2026 15:15,11/04/2027 15:15,22/10/2026 20:33
 a41ad093-ebf2-45fb-80d7-d0e530a60ea1,education.club,resell,,,high,medium,9,"GoDaddy.com, LLC",27/02/2017 16:00,26/02/2027 23:59,23/10/2026 00:35
+0d6fd80c-74bf-4b42-9787-11706b5f26ff,learning.farm,available,30.2,30.2,high,high,8,cloudflare,,,24/10/2026 03:00
+37c53a72-0847-442f-9590-6cf9aa040277,learning.me,premium,8280,16.52,high,high,8,namesilo,,,24/10/2026 03:00
 234fe825-84f0-474e-98ff-41db2e3204d6,education.now,resell,,,high,medium,9,Dynadot Inc,01/10/2024 01:43,01/10/2027 01:43,23/10/2026 00:35
-d6581954-b26c-4376-bec7-33f9e3ba5b8e,learning.rent,available,17.99,59.99,high,medium,8,namesilo,,,22/10/2026 09:40
-9dc960f6-8c4c-4e99-96ff-41f0c8c1a077,learning.show,resell,,,high,medium,8,"DNSPod, Inc.",13/05/2018 02:07,13/05/2027 02:07,22/10/2026 09:40
 4e35abd9-7ff7-4256-9989-756501d563c7,school.online,premium,34500,34500,high,medium,6,namesilo,,,22/10/2026 20:33
 7832941e-aba9-4333-a0d4-7c6f6d300060,education.build,premium,1950,1950,high,medium,9,namecheap,,,23/10/2026 00:35
+89758158-4725-425b-a2d0-192d266a4072,learning.paris,available,14.6,38.57,high,high,8,dynadot,,,24/10/2026 03:00
+5fd9128a-dd74-4393-b49a-d57e161e8a1c,learning.futbol,available,5.38,13.66,high,high,8,spaceship,,,24/10/2026 03:00
 23317592-adeb-48b3-b808-82a0975df97b,education.estate,resell,,,high,medium,9,"Global Domains International, Inc. DBA DomainCostClub.com",25/02/2025 18:27,25/02/2027 18:27,23/10/2026 00:35
-a10a8a8a-10dc-4061-9d04-a118d07dbd69,learning.llc,premium,1552.7,1552.7,high,medium,8,spaceship,,,22/10/2026 09:40
 74eb6d92-23fa-4d1a-b4ae-5cc0a80e5fc5,education.work,premium,1100,10.92,high,medium,9,dynadot,,,23/10/2026 00:35
-0be803c5-63c0-45d7-89ea-a05a9a5c3ecd,learning.download,premium,517.7,67.48,high,medium,8,spaceship,,,22/10/2026 09:40
-30249623-818f-46c4-880e-40ed0f20e99b,learning.theatre,available,509.99,529.99,high,medium,8,namesilo,,,22/10/2026 09:40
-194be50e-5c4b-47e8-a8cc-0d8d4548ec1f,learning.clothing,available,32.99,32.99,high,medium,8,namesilo,,,22/10/2026 09:40
+745193fe-ab0a-468e-a08c-9e6fa502f319,learning.lgbt,available,14.99,79.99,high,high,8,namesilo,,,24/10/2026 03:00
 7140538f-637f-4793-b97e-23dad869563b,education.yoga,premium,828.2,26.08,high,medium,9,spaceship,,,23/10/2026 00:35
-43775bad-80bd-457d-b9f9-acc9ef0ad1f8,learning.creditcard,available,5.57,133.52,high,medium,8,dynadot,,,22/10/2026 09:40
 db07a667-042b-4de6-b727-1bd03774cc8c,education.bio,premium,102.67,102.67,high,medium,9,spaceship,,,23/10/2026 00:35
-443fbbae-f703-46e0-b505-9e5af08ca43a,learning.melbourne,available,58,58,high,medium,8,namesilo,,,22/10/2026 09:40
-b5f6bd3d-ad95-4732-99a5-a80a3220e425,learning.nyc,premium,6900,29.5,high,medium,8,namesilo,,,22/10/2026 09:40
-b832915e-5af4-4d95-9534-0833044d4128,learning.villas,available,47.81,47.81,high,medium,8,spaceship,,,22/10/2026 09:40
-3d62b2d2-577c-42ad-ab39-73a3363405cf,learning.cruises,available,56.99,56.99,high,medium,8,namesilo,,,22/10/2026 09:40
+654a5bdd-58fa-4320-a0fa-32a5b4190d77,learning.estate,available,15,38.99,high,high,8,unstoppable,,,24/10/2026 03:00
+8f4e73c8-158e-471e-bcd5-57674c92ade7,learning.furniture,available,27.99,94.99,high,high,8,namesilo,,,24/10/2026 03:00
 9339c6a9-96cd-47dd-bf77-2f0867c52202,education.engineering,premium,118.8,118.8,high,medium,9,namesilo,,,23/10/2026 00:35
 1b55c943-be28-4546-8e7a-414bec0e7759,school.security,available,1863.2,2000.18,high,medium,6,spaceship,,,22/10/2026 20:33
 11d26ad8-b569-44d7-aed7-7e69f4cd5ca6,education.vodka,premium,207.2,26.08,high,medium,9,spaceship,,,23/10/2026 00:35
 f7b0e70d-ca97-4153-9fef-742a9c5b9ce1,education.bargains,premium,102.67,102.67,high,medium,9,spaceship,,,23/10/2026 00:35
 28519b88-f982-465b-ae01-3fe185a06df1,education.contractors,premium,78.54,78.54,high,medium,9,namesilo,,,23/10/2026 00:35
-2fab2957-fac3-4daf-adb8-1a9049e04a4c,learning.democrat,available,5.38,26.08,high,medium,8,spaceship,,,22/10/2026 09:40
+997a9c41-1723-4f92-bfc0-90a146f734d9,learning.diet,available,108.98,159.98,high,high,8,namecheap,,,24/10/2026 03:00
 ebdac08e-7d53-448b-9ed9-8030dde4b2a9,school.singles,premium,78.54,78.54,high,medium,6,namesilo,,,22/10/2026 20:33
 50f09120-31f0-4556-ac74-b6b939c6f441,school.sucks,premium,41400,2658.67,high,medium,6,namesilo,,,22/10/2026 20:33
-3a84b3d5-78c4-429d-83b3-ad793173b2dd,learning.tienda,available,47.81,47.81,high,medium,8,spaceship,,,22/10/2026 09:40
 a3d09bb5-50f5-4f60-9e93-c64e4da082ef,school.christmas,available,34.99,34.99,high,medium,6,namesilo,,,22/10/2026 20:33
-c3d1ea87-708a-44d5-bb70-e8082faf15e2,learning.guide,resell,,,high,medium,8,Dynadot Inc,10/08/2019 01:28,10/08/2027 01:28,22/10/2026 09:40
-c0a17d24-76b0-428a-b478-3d0d4e3c149c,learning.uk,resell,,,high,medium,8,Fasthosts Internet Ltd,20/04/2015 14:47,20/04/2027 14:47,22/10/2026 09:40
-9fb7e702-894b-4f0e-8593-68b41498ef77,learning.racing,premium,110,110,high,medium,8,dynadot,,,22/10/2026 09:40
-7e1ae333-5fa2-4aea-a271-1d5f464ea1f8,learning.media,resell,,,high,medium,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/01/2020 18:57,14/01/2027 18:57,22/10/2026 09:40
+be34c2be-542b-4e51-9293-fd343ead7fac,learning.yoga,available,26.08,26.08,high,high,8,spaceship,,,24/10/2026 03:00
 508b1e75-2e43-4e74-9fd8-14fe6bd8aa39,education.dental,premium,102.67,102.67,high,medium,9,spaceship,,,23/10/2026 00:35
+73694ff5-8d4d-4d22-8f47-44ea1ac3c974,learning.sydney,available,58,58,high,high,8,namesilo,,,24/10/2026 03:00
 05b72ea0-04ff-41d0-a401-90d4d731dbf1,education.industries,premium,102.67,102.67,high,medium,9,spaceship,,,23/10/2026 00:35
 53946713-5b88-4d58-b500-2e933a1c801d,school.properties,premium,207.2,207.2,high,medium,6,spaceship,,,22/10/2026 20:33
-a68c704e-c384-4a3c-8297-3803d4f1f7af,learning.website,premium,2750,5500,high,medium,8,dynadot,,,22/10/2026 09:40
 5833f778-74f6-4e80-9893-8ab33855fd98,school.kaufen,available,23.94,23.94,high,medium,6,spaceship,,,22/10/2026 20:33
-eec1a331-51a0-49cc-ae64-650e65370ca4,learning.place,premium,220,220,high,medium,8,dynadot,,,22/10/2026 09:40
 7d2ea3d2-1803-4f52-b872-9c83fac7bef2,education.sucks,premium,2658.67,2658.67,high,medium,9,namesilo,,,23/10/2026 00:35
 3ec71cf0-5576-45f7-9563-c89c032357bb,education.talk,premium,517.7,517.7,high,medium,9,spaceship,,,23/10/2026 00:35
-a1a41485-489f-4008-b412-7b7643db07e6,learning.sexy,available,2749.99,2749.99,high,medium,8,namesilo,,,22/10/2026 09:40
 4144517d-8afb-482e-a822-6a2563e8de3b,education.graphics,premium,38.94,38.94,high,medium,9,namesilo,,,23/10/2026 00:35
-37c53a72-0847-442f-9590-6cf9aa040277,learning.me,premium,8280,16.52,high,medium,8,namesilo,,,22/10/2026 09:40
 11e6988d-8db0-4f12-b3ae-3fcb87452849,education.restaurant,available,20.99,64.99,high,medium,9,namesilo,,,23/10/2026 00:35
-89758158-4725-425b-a2d0-192d266a4072,learning.paris,available,22.99,67.99,high,medium,8,godaddy,,,22/10/2026 09:40
 f46bb0a9-1c44-4caa-adbf-de43dce9b95b,education.promo,premium,2587.7,2587.7,high,medium,9,spaceship,,,23/10/2026 00:35
 6090964e-3202-4a6c-9917-e63cc8483b8d,teaching.institute,available,9.5,37.98,high,low,8,unstoppable,,,07/10/2026 07:33
 6dc72cf9-e38a-4afc-a255-5c1bd880424e,education.money,resell,,,high,medium,9,Dynadot Inc,28/10/2021 17:00,28/10/2027 17:00,23/10/2026 00:35
-0d6fd80c-74bf-4b42-9787-11706b5f26ff,learning.farm,available,7.71,35.53,high,medium,8,dynadot,,,22/10/2026 09:40
 685fc9fb-33c8-4f00-b68b-c2b9f3fc6e57,school.ngo,premium,550,275,high,medium,6,dynadot,,,22/10/2026 20:33
-745193fe-ab0a-468e-a08c-9e6fa502f319,learning.lgbt,available,13.5,79.99,high,medium,8,unstoppable,,,22/10/2026 09:40
-5fd9128a-dd74-4393-b49a-d57e161e8a1c,learning.futbol,available,5.98,8.48,high,medium,8,namecheap,,,22/10/2026 09:40
 d94f01db-23e0-474d-804e-8369d90bcaa8,school.deal,premium,517.7,517.7,high,medium,6,spaceship,,,22/10/2026 20:33
 50f11e91-254c-47a4-a7ee-c6054651967a,school.srl,premium,54.28,30.68,high,medium,6,namesilo,,,22/10/2026 20:33
 ca7472a9-bfac-4462-90b4-8f142f545674,school.tel,resell,,,high,medium,6,"Spaceship, Inc.",10/06/2021 15:14,10/06/2027 15:14,22/10/2026 20:33
 bad34511-5cd0-4bb0-a388-115a4d92772a,education.poker,premium,78.54,78.54,high,medium,9,namesilo,,,23/10/2026 00:35
 e6801339-cf92-439c-a76c-ff7784e08dc1,education.kim,available,5.38,18.83,high,medium,9,spaceship,,,23/10/2026 00:35
-654a5bdd-58fa-4320-a0fa-32a5b4190d77,learning.estate,available,15.99,38.99,high,medium,8,namesilo,,,22/10/2026 09:40
+4504ffa1-d6cc-4fa7-a45c-0a418ef4970e,learning.free,premium,110,110,high,high,8,dynadot,,,24/10/2026 03:00
+57778fbf-04de-488c-9d8a-93efa562d8e3,learning.condos,available,58.99,58.99,high,high,8,namesilo,,,24/10/2026 03:00
 09fef4b4-0a15-41cc-88a0-604e5a335327,education.cricket,premium,6900,116,high,medium,9,namesilo,,,23/10/2026 00:35
 e1363812-8f05-493c-b30c-cd484b8ca5cf,education.direct,premium,,,high,medium,9,"NameCheap, Inc.",08/04/2025 02:55,08/04/2027 02:55,23/10/2026 00:35
-997a9c41-1723-4f92-bfc0-90a146f734d9,learning.diet,available,104.99,114.99,high,medium,8,namesilo,,,22/10/2026 09:40
+719354e1-a0b6-420a-b5d6-a2a8a6bbe2e6,learning.zip,premium,133.72,133.72,high,high,8,spaceship,,,24/10/2026 03:00
 547399b0-3c47-4e4e-89c8-6f2b4017810b,education.living,premium,640,640,high,medium,9,namesilo,,,23/10/2026 00:35
-8f4e73c8-158e-471e-bcd5-57674c92ade7,learning.furniture,available,27.99,94.99,high,medium,8,namesilo,,,22/10/2026 09:40
-6163f979-13ab-4892-941c-c94e16abe91a,learning.hiphop,available,,,high,low,8,,,,23/10/2026 09:39
+c885be2e-ea46-47ad-813d-6c45f3ef656d,learning.prof,premium,843.7,843.7,high,high,8,namecheap,,,24/10/2026 03:00
+c6afdc4f-e1d3-493a-ab95-3849ba5c4b71,learning.gay,available,1.75,31.28,high,high,8,spaceship,,,24/10/2026 03:00
 3d9373c7-d949-4897-8633-1f7d24ce283a,school.pictures,resell,,,high,medium,6,Dynadot Inc,17/06/2015 16:00,17/06/2027 16:00,22/10/2026 20:33
 ce098fd8-ecad-4140-a8af-7dbcf49b2d65,school.work,resell,,,high,medium,6,Porkbun,12/07/2017 20:25,12/07/2031 20:25,22/10/2026 20:33
 8c56f989-51f8-431d-8125-50e7dc9ee505,education.casa,premium,47.2,11.8,high,medium,9,namesilo,,,23/10/2026 00:35
 372c1b77-2653-443c-abfd-c5b63d358ca7,education.srl,premium,54.28,30.68,high,medium,9,namesilo,,,23/10/2026 00:35
+2a556062-08fd-49eb-8e79-8463470daf1e,learning.careers,available,55.2,55.2,high,high,8,cloudflare,,,24/10/2026 03:00
 df067677-d0b5-4fe5-bb94-e6f548b92e46,education.services,resell,,,high,medium,9,"Spaceship, Inc.",25/06/2015 08:27,25/06/2027 08:27,23/10/2026 00:35
 d153c7da-b27d-415c-bde7-03fcf56d707d,education.show,resell,,,high,medium,9,"DNSPod, Inc.",22/02/2019 23:23,22/02/2027 23:23,23/10/2026 00:35
+6bab45f6-7ad4-4582-ba0b-3d8b59f873ed,learning.cars,available,1999.99,2199,high,high,8,namesilo,,,24/10/2026 03:00
 2b586e7f-dc36-42ba-a926-f1dd63ad0ff4,school.agency,resell,,,high,medium,6,"Spaceship, Inc.",23/06/2023 15:15,23/06/2027 15:15,22/10/2026 20:33
 3753940f-99fd-415f-867b-993e659318cd,school.loan,premium,10350.2,103.7,high,medium,6,spaceship,,,22/10/2026 20:33
 c0fb551f-ab07-4cb3-a427-979c79e781c4,education.store,premium,6900,6900,high,medium,9,namesilo,,,23/10/2026 00:35
-be34c2be-542b-4e51-9293-fd343ead7fac,learning.yoga,available,26.08,26.08,high,medium,8,spaceship,,,22/10/2026 09:40
 8026d227-b2a2-4a59-a6ac-dbad1b5773b2,curriculum.schule,available,22.97,22.97,high,medium,10,spaceship,,,23/10/2026 01:49
 4f3ccc4f-b29a-41ab-9c97-5b02e82313fb,school.bid,premium,5458.82,109.69,high,medium,6,porkbun,,,22/10/2026 20:33
 7285c4e4-4fef-41a4-8f5b-e1663232790a,education.hamburg,available,69.98,73.98,high,medium,9,namecheap,,,23/10/2026 00:35
 e37d05c3-3f5b-4bf0-8a89-16a02011ca4a,education.forum,resell,,,high,medium,9,Porkbun LLC,19/08/2025 15:33,19/08/2027 15:33,23/10/2026 00:35
 4f9505c8-5611-4d29-94ee-6026eb45eff7,education.gold,resell,,,high,medium,9,"DNSPod, Inc.",01/04/2023 15:15,01/04/2027 15:15,23/10/2026 00:35
-73694ff5-8d4d-4d22-8f47-44ea1ac3c974,learning.sydney,premium,58,58,high,medium,8,namesilo,,,22/10/2026 09:40
 9dbf7535-0839-40f2-b408-c2034d2944af,school.credit,premium,220,220,high,medium,6,dynadot,,,22/10/2026 20:33
+c9d27d7a-9a91-443e-ae8b-5b21339c24e2,learning.hospital,available,74.99,74.99,high,high,8,namesilo,,,24/10/2026 03:00
 30c28d44-4142-4052-89f7-efec1aafbf9f,school.pub,available,39.99,39.99,high,medium,6,namesilo,,,22/10/2026 20:33
 e264bd95-1d59-4078-8411-08a795a0a5f9,education.music,available,,,high,low,9,,,,23/10/2026 09:23
-2959dffd-f021-464e-8233-2da9cce43eef,learning.games,resell,,,high,medium,8,"GoDaddy.com, LLC",12/09/2016 18:21,12/09/2027 18:21,22/10/2026 09:40
+c76a5811-116e-4ee1-b694-154b31bc98cf,learning.esq,premium,671.92,671.92,high,high,8,spaceship,,,24/10/2026 03:00
 175609a6-9d16-468a-9297-2a1523ec02a7,education.loan,premium,11000,110,high,medium,9,dynadot,,,23/10/2026 00:35
 4fdde411-3e09-44de-b54e-219556323486,education.green,premium,1035.2,1035.2,high,medium,9,spaceship,,,23/10/2026 00:35
-4504ffa1-d6cc-4fa7-a45c-0a418ef4970e,learning.free,premium,130,130,high,medium,8,namecheap,,,22/10/2026 09:40
-719354e1-a0b6-420a-b5d6-a2a8a6bbe2e6,learning.zip,premium,133.72,133.72,high,medium,8,spaceship,,,22/10/2026 09:40
-c885be2e-ea46-47ad-813d-6c45f3ef656d,learning.prof,premium,709.01,709.01,high,medium,8,porkbun,,,22/10/2026 09:40
+9b946fdc-defa-46d6-9a58-fc31991e251c,learning.travel,available,27.99,149.99,high,high,8,namesilo,,,24/10/2026 03:00
+eac2263f-ceac-4425-9eae-4be07ec137c3,learning.loan,premium,5175.2,103.7,high,high,8,spaceship,,,24/10/2026 03:00
+685c311c-1424-431e-8830-ac85232d8e88,learning.vacations,premium,207.2,207.2,high,high,8,spaceship,,,24/10/2026 03:00
+51f54f6e-3bf9-44d7-83e9-b8118be1b66e,learning.rehab,available,28.2,28.2,high,high,8,cloudflare,,,24/10/2026 03:00
 113b2252-43ee-472b-99de-6039681ba12a,school.living,premium,640,640,high,medium,6,namesilo,,,22/10/2026 20:33
 c75a4fad-195c-434b-ad77-cab50b376101,education.gay,premium,110,110,high,medium,9,dynadot,,,23/10/2026 00:35
+c17410f5-e4e1-4dd9-8d19-f63ac8397eb5,learning.apartments,available,10.81,50.98,high,high,8,porkbun,,,24/10/2026 03:00
+3599e839-08ab-4b6b-aff3-2868e782aa72,learning.cyou,premium,59.71,119.23,high,high,8,spaceship,,,24/10/2026 03:00
 facc89a4-733b-4f8e-8043-4194696a51b1,school.dad,premium,499.2,648.7,high,medium,6,unstoppable,,,22/10/2026 20:33
-c6afdc4f-e1d3-493a-ab95-3849ba5c4b71,learning.gay,available,2.99,38.99,high,medium,8,namesilo,,,22/10/2026 09:40
-57778fbf-04de-488c-9d8a-93efa562d8e3,learning.condos,available,46.78,46.78,high,medium,8,spaceship,,,22/10/2026 09:40
+0053cbd0-fcc5-472a-8750-7f830be6494f,learning.srl,premium,54.28,30.68,high,high,8,namesilo,,,24/10/2026 03:00
+28908992-d401-4dde-93bc-4f546167aa22,learning.one,premium,640,640,high,high,8,namesilo,,,24/10/2026 03:00
+b919b7d7-c654-4f2b-ae9a-75481ef3c47e,learning.men,premium,448,53.92,high,high,8,namesilo,,,24/10/2026 03:00
+55de830b-5dc1-4075-ab1f-c600acf0921c,learning.buzz,premium,512,116,high,high,8,namesilo,,,24/10/2026 03:00
 73bd7428-e5f9-46b6-a7c8-4d8ff85ce994,school.mov,premium,516.67,516.67,high,medium,6,spaceship,,,22/10/2026 20:33
-2a556062-08fd-49eb-8e79-8463470daf1e,learning.careers,available,49.99,121.99,high,medium,8,godaddy,,,22/10/2026 09:40
 d97f088b-5f60-428b-ab9e-e7f2ec8baf85,education.adult,resell,,,high,medium,9,"Name.com, Inc.",09/06/2017 14:30,09/06/2027 14:30,23/10/2026 00:35
 8ad4bcad-b4e9-41c0-b20e-3a865ef2c119,school.faith,premium,1035.2,103.7,high,medium,6,spaceship,,,22/10/2026 20:33
-0309efe0-b31c-426f-9c63-0bbd5bc7ccff,learning.toys,resell,,,high,medium,8,"Name.com, Inc.",29/08/2018 11:22,29/08/2027 11:22,22/10/2026 09:40
+4b53a86b-2596-422e-b59b-39444d0b50ef,learning.vana,available,2060.25,2060.25,high,high,8,porkbun,,,24/10/2026 03:00
 441371f7-1f56-42dc-9543-8a610ade22c8,education.theatre,available,509.99,529.99,high,medium,9,namesilo,,,23/10/2026 00:35
 342b202c-e48e-4b94-84be-5fc1686b677e,school.film,premium,242,242,high,medium,6,namesilo,,,22/10/2026 20:33
-6bab45f6-7ad4-4582-ba0b-3d8b59f873ed,learning.cars,available,1863.2,2064.2,high,medium,8,spaceship,,,22/10/2026 09:40
-02b1078c-6c9c-476a-9e80-083ed93a87f4,learning.info,resell,,,high,medium,8,"NameCheap, Inc.",13/07/2002 19:39,13/07/2030 19:39,22/10/2026 09:40
-777e3309-99be-475d-8844-8bce6b7c9210,learning.skin,resell,,,high,medium,8,"Spaceship, Inc.",05/05/2025 08:43,05/05/2027 23:59,22/10/2026 09:40
+e784ab2c-4e6d-4e32-83e4-0b5eb8e53c28,learning.bond,premium,59.71,119.23,high,high,8,spaceship,,,24/10/2026 03:00
+b51a6c23-6f7f-4f4e-801b-d37757d76e11,learning.deal,available,38.99,38.99,high,high,8,namesilo,,,24/10/2026 03:00
+0129e4a2-36b2-4362-adae-377b52d0bc37,learning.uno,premium,3250,3250,high,high,8,namecheap,,,24/10/2026 03:00
+689ceecd-369d-45e2-bfea-387209407a1d,learning.pet,premium,1000.5,1035.2,high,high,8,unstoppable,,,24/10/2026 03:00
 dbbf23e3-dba9-40fd-92ea-931eb79be64e,education.blackfriday,available,114.99,114.99,high,medium,9,namesilo,,,23/10/2026 00:35
 e5a85e88-888f-42fc-9738-ea772ff955cb,school.blackfriday,available,114.99,114.99,high,medium,6,namesilo,,,22/10/2026 20:33
 abda01d6-b34a-4672-96a6-0ece9d95e648,school.care,premium,512,512,high,medium,6,namesilo,,,22/10/2026 20:33
@@ -479,238 +481,222 @@ abda01d6-b34a-4672-96a6-0ece9d95e648,school.care,premium,512,512,high,medium,6,n
 2cf31850-f3d5-4183-a667-e30a4d54a1ab,learning.so,resell,,,high,low,8,NameCheap,19/08/2020 05:01,19/08/2025 05:01,
 f31ce6b1-9b75-48a5-90f2-39697486557c,education.flowers,available,93.35,103.4,high,medium,9,spaceship,,,23/10/2026 00:35
 277c2046-dba8-4c97-a5e8-0072a14a2c3d,school.ink,premium,116,116,high,medium,6,namesilo,,,22/10/2026 20:33
-c9d27d7a-9a91-443e-ae8b-5b21339c24e2,learning.hospital,available,109.99,109.99,high,medium,8,godaddy,,,22/10/2026 09:40
 26109f6e-af2d-4332-bd12-5af93ea7da9b,education.tattoo,available,1.75,31.25,high,medium,9,spaceship,,,23/10/2026 00:35
 8f1da953-5bd3-4510-9b3c-ace6b5bd0306,school.stream,premium,10350.2,103.7,high,medium,6,spaceship,,,22/10/2026 20:33
 c3848a5e-3757-43f7-90e3-56906716104b,education.kitchen,available,10.5,51.95,high,medium,9,unstoppable,,,23/10/2026 00:35
-eac2263f-ceac-4425-9eae-4be07ec137c3,learning.loan,premium,5175.2,103.7,high,medium,8,spaceship,,,22/10/2026 09:40
 9f7f4657-747e-48f1-9d89-26f1d7596864,school.cheap,premium,242,242,high,medium,6,namesilo,,,22/10/2026 20:33
-685c311c-1424-431e-8830-ac85232d8e88,learning.vacations,premium,242,242,high,medium,8,namesilo,,,22/10/2026 09:40
-51f54f6e-3bf9-44d7-83e9-b8118be1b66e,learning.rehab,available,29.18,29.18,high,medium,8,spaceship,,,22/10/2026 09:40
+3038f839-cf02-46c4-97f3-6f85ea59d3c5,learning.vegas,available,18.99,43.99,high,high,8,namesilo,,,24/10/2026 03:00
 8cebf4ea-28ca-435d-9797-c613b6313a82,school.computer,premium,828.2,828.2,high,medium,6,spaceship,,,22/10/2026 20:33
 21ff8148-ed2d-49cb-bfea-332f3b1575fa,school.mortgage,premium,242,242,high,medium,6,namesilo,,,22/10/2026 20:33
-c76a5811-116e-4ee1-b694-154b31bc98cf,learning.esq,premium,709.01,709.01,high,medium,8,porkbun,,,22/10/2026 09:40
 790518eb-7425-4fad-a815-85a0b67663a2,school.irish,available,17.2,17.2,high,medium,6,cloudflare,,,22/10/2026 20:33
-c17410f5-e4e1-4dd9-8d19-f63ac8397eb5,learning.apartments,available,97.99,97.99,high,medium,8,godaddy,,,22/10/2026 09:40
-3599e839-08ab-4b6b-aff3-2868e782aa72,learning.cyou,premium,68.43,147.2,high,medium,8,namesilo,,,22/10/2026 09:40
-28908992-d401-4dde-93bc-4f546167aa22,learning.one,premium,640,640,high,medium,8,namesilo,,,22/10/2026 09:40
+45b76d91-a23d-485c-88f3-f4cc3d6fa10b,learning.doctor,available,5.38,93.35,high,high,8,spaceship,,,24/10/2026 03:00
 8d9ac945-48e1-415a-9a08-82c6edc41b5a,education.ryukyu,available,17.98,22.98,high,medium,9,namecheap,,,23/10/2026 00:35
+d3905f5b-2365-4aff-a428-ba3d09f6198d,learning.holdings,available,51.95,51.95,high,high,8,spaceship,,,24/10/2026 03:00
 3c1ae4e0-32eb-414e-a57e-82b46252c6b7,school.review,premium,10917.11,109.69,high,medium,6,porkbun,,,22/10/2026 20:33
 f0452c24-445f-4075-8f7b-c11fcdde8d56,school.limo,available,43.67,43.67,high,medium,6,spaceship,,,22/10/2026 20:33
-9b946fdc-defa-46d6-9a58-fc31991e251c,learning.travel,available,27.99,149.99,high,medium,8,namesilo,,,22/10/2026 09:40
 dad47cb9-3430-44ef-af5d-3de8f712f1ca,education.diy,premium,640,640,high,medium,9,namesilo,,,23/10/2026 00:35
-b919b7d7-c654-4f2b-ae9a-75481ef3c47e,learning.men,premium,362.45,51.95,high,medium,8,spaceship,,,22/10/2026 09:40
-55de830b-5dc1-4075-ab1f-c600acf0921c,learning.buzz,premium,414.2,103.7,high,medium,8,spaceship,,,22/10/2026 09:40
 20d29fcd-f7b4-44ab-86a3-b19b5460a069,school.degree,premium,1107,1107,high,medium,6,namesilo,,,22/10/2026 20:33
 08e54924-88d8-4efb-a2ec-9916f836c33f,school.apartments,available,57.99,57.99,high,medium,6,namesilo,,,22/10/2026 20:33
-0053cbd0-fcc5-472a-8750-7f830be6494f,learning.srl,premium,54.28,30.68,high,medium,8,namesilo,,,22/10/2026 09:40
 abfa2e9c-d8a3-41df-beca-8a91eda76b87,education.boston,available,,,high,low,9,,,,23/10/2026 09:23
-4b53a86b-2596-422e-b59b-39444d0b50ef,learning.vana,available,2070.2,2070.2,high,medium,8,spaceship,,,22/10/2026 09:40
+508c6635-8876-426c-8c23-009565bf0f76,learning.country,available,2064.2,2064.2,high,high,8,spaceship,,,24/10/2026 03:00
+e9ade42b-5cd9-456b-8d1a-a3100dc178f5,learning.actor,available,8.48,35.39,high,high,8,spaceship,,,24/10/2026 03:00
 38f19148-a4da-491d-80c0-e2dab7f2c159,education.ink,resell,,,high,medium,9,Dynadot Inc,30/09/2026 00:00,30/09/2027 00:00,23/10/2026 00:35
 ebe47d35-0620-4547-b5ac-869d5af85f00,school.boutique,premium,78.54,78.54,high,medium,6,namesilo,,,22/10/2026 20:33
+afafd7c2-4613-4689-9654-28e42f51748c,learning.audio,available,104.99,114.99,high,high,8,namesilo,,,24/10/2026 03:00
+251503ab-105f-4fd7-8a3b-272f7382956b,learning.rich,available,94.99,1999,high,high,8,namesilo,,,24/10/2026 03:00
 bf97242a-85b9-4ed4-83ff-a339e0085915,school.wine,resell,,,high,medium,6,"Spaceship, Inc.",27/01/2016 16:00,27/01/2027 16:00,22/10/2026 20:33
+223ab924-e350-4a31-8569-38f4ec7dcbd2,learning.channel,premium,516.67,516.67,high,high,8,spaceship,,,24/10/2026 03:00
+3aaf7baf-087f-4ea8-abdf-b64fea3675a1,learning.voto,available,10.81,56.13,high,high,8,porkbun,,,24/10/2026 03:00
 14a4789d-6385-4aec-8aef-3dd8995a57ed,school.futbol,premium,102.67,102.67,high,medium,6,spaceship,,,22/10/2026 20:33
 efc96c14-bdf4-4dc3-ab14-f458074f6d98,school.ca,resell,,,high,medium,6,CanSpace Solutions Inc.,25/09/2000 15:51,24/09/2027 04:00,22/10/2026 20:33
 3586eb69-e6f0-408a-b323-a24c6e98e8e8,education.mobi,available,,,high,low,9,,,,23/10/2026 09:23
 357b5d38-076c-4126-9eeb-0ede08d53d9c,education.shoes,available,,,high,low,9,,,,23/10/2026 09:23
 29f9556f-4ebe-41de-a677-e9d663d52780,school.dentist,premium,3450,3450,high,medium,6,namesilo,,,22/10/2026 20:33
+9308afdd-5263-44dc-81a6-b46cb499998f,learning.fun,premium,13800,13800,high,high,8,namesilo,,,24/10/2026 03:00
 7b844001-d818-4fbd-af71-18dc8e023e06,school.vodka,available,33.98,43.98,high,medium,6,namecheap,,,22/10/2026 20:33
 14561911-1bb2-42fe-add1-7d65f41a2752,school.viajes,available,99.99,99.99,high,medium,6,namesilo,,,22/10/2026 20:33
 233c6f16-5842-4603-94ef-2e99cfd47f4d,teaching.university,premium,102.67,102.67,high,low,8,spaceship,,,07/10/2026 07:33
-0129e4a2-36b2-4362-adae-377b52d0bc37,learning.uno,premium,3450,3450,high,medium,8,namesilo,,,22/10/2026 09:40
-e784ab2c-4e6d-4e32-83e4-0b5eb8e53c28,learning.bond,premium,59.71,119.23,high,medium,8,spaceship,,,22/10/2026 09:40
+58d2a50a-63fb-49c5-b987-6af8d8fff971,learning.cv,available,8.85,8.85,high,high,8,namesilo,,,24/10/2026 03:00
+ecaac9b2-58a4-426f-8d52-391d3aa5a8b8,learning.juegos,available,321.22,321.22,high,high,8,dynadot,,,24/10/2026 03:00
 6b9e070c-aaa1-495b-9d4b-30917256a7be,school.parts,premium,108.9,108.9,high,medium,6,dynadot,,,22/10/2026 20:33
-b51a6c23-6f7f-4f4e-801b-d37757d76e11,learning.deal,available,38.99,38.99,high,medium,8,namesilo,,,22/10/2026 09:40
-037af21f-f087-47d6-ab82-0828ca71a1c9,learning.mobi,resell,,,high,medium,8,"Sav.com, LLC - 18",22/12/2025 15:15,22/12/2026 15:15,22/10/2026 09:40
+4aadde66-4d2d-49d7-b98a-8a012f81d3fe,learning.republican,available,5.98,8.48,high,high,8,namecheap,,,24/10/2026 03:00
+b4fc1deb-aa83-4538-a6f9-3a3305743c60,learning.soy,premium,159.2,174.9,high,high,8,unstoppable,,,24/10/2026 03:00
+e8a70d0d-7f18-411a-8de3-a85536e6478c,learning.mobile,premium,310.7,310.7,high,high,8,spaceship,,,24/10/2026 03:00
 e289c0e3-abf8-400d-ba1c-b08c141b8557,school.college,premium,10350.2,10350.2,high,medium,6,spaceship,,,22/10/2026 20:33
-3038f839-cf02-46c4-97f3-6f85ea59d3c5,learning.vegas,available,16.51,43.61,high,medium,8,dynadot,,,22/10/2026 09:40
-689ceecd-369d-45e2-bfea-387209407a1d,learning.pet,premium,1035.2,1035.2,high,medium,8,spaceship,,,22/10/2026 09:40
+af5370ae-4f21-4961-8ce6-250350de52d4,learning.security,available,1999.99,2049.99,high,high,8,namesilo,,,24/10/2026 03:00
 4f4e9153-f9b8-40d5-a84d-f7e9bc9447d7,teaching.mba,available,10.55,31.25,high,low,8,spaceship,,,07/10/2026 07:33
-45b76d91-a23d-485c-88f3-f4cc3d6fa10b,learning.doctor,available,14.99,197.99,high,medium,8,godaddy,,,22/10/2026 09:40
-e6aa8114-e99e-4150-b85a-1c7d12415915,learning.express,resell,,,high,medium,8,Unstoppable Domains Inc,26/02/2017 11:06,26/02/2027 11:06,22/10/2026 09:40
+96d34329-13a3-4262-a18b-a47ea1a67927,learning.voting,available,978.6,978.6,high,high,8,dynadot,,,24/10/2026 03:00
 7bcb0c60-378f-4aad-b25b-fc90b90d310b,study.shiksha,premium,1000.5,1100,high,high,5,unstoppable,,,24/10/2026 00:42
-d3905f5b-2365-4aff-a428-ba3d09f6198d,learning.holdings,available,111.99,111.99,high,medium,8,godaddy,,,22/10/2026 09:40
 8b20c4e9-df5a-4357-a97d-5b6e1d271548,school.express,resell,,,high,medium,6,"Sav.com, LLC",10/10/2026 22:44,10/10/2027 22:44,22/10/2026 20:33
+bad062e5-49a2-4a84-991e-06f60ea3b5aa,learning.vodka,premium,41.6,26.08,high,high,8,spaceship,,,24/10/2026 03:00
 2c061271-bf8c-40c0-9283-6bfe199749e8,school.farm,resell,,,high,medium,6,Squarespace Domains II LLC,21/07/2021 12:37,21/07/2028 12:37,22/10/2026 20:33
 18e98dd2-6d55-44ce-8f2a-4f0aa41c893c,school.webcam,premium,3250,130,high,medium,6,namecheap,,,22/10/2026 20:33
 ab432111-431b-4aad-9dc8-9b3da65ba4a7,education.hiphop,available,,,high,low,9,,,,23/10/2026 09:23
 ecdd09f0-0567-4cc3-900e-86d41a219ddf,school.club,premium,3450,17.7,high,medium,6,namesilo,,,22/10/2026 20:33
-d2f0296a-549a-4e5b-bf51-043bb64e5b57,learning.tube,available,,,high,low,8,,,,23/10/2026 09:39
-e9ade42b-5cd9-456b-8d1a-a3100dc178f5,learning.actor,available,10.81,39.65,high,medium,8,porkbun,,,22/10/2026 09:40
+d9e0fdfc-1cee-49fb-8b8e-4b867e4aaf5c,learning.fans,premium,51.95,103.7,high,high,8,spaceship,,,24/10/2026 03:00
+440ba207-a5ea-4c45-8736-d3e38f74bf00,learning.study,premium,1107,1107,high,high,8,namesilo,,,24/10/2026 03:00
+fbb16fb4-0735-4aa8-a0a0-22cf7da0a75c,learning.florist,available,31.98,41.98,high,high,8,namecheap,,,24/10/2026 03:00
 41888a68-228c-4361-be0d-e0e2979d342e,school.financial,premium,128.7,128.7,high,medium,6,namecheap,,,22/10/2026 20:33
 49274422-5e0b-4e20-972c-1b73df466a0b,school.gallery,premium,72.6,72.6,high,medium,6,dynadot,,,22/10/2026 20:33
-afafd7c2-4613-4689-9654-28e42f51748c,learning.audio,available,93.35,103.4,high,medium,8,spaceship,,,22/10/2026 09:40
 ef00ac18-6381-44cd-98dc-2c88c4a8a2a2,school.holdings,available,51.95,51.95,high,medium,6,spaceship,,,22/10/2026 20:33
-251503ab-105f-4fd7-8a3b-272f7382956b,learning.rich,available,149.99,3499.99,high,medium,8,godaddy,,,22/10/2026 09:40
-223ab924-e350-4a31-8569-38f4ec7dcbd2,learning.channel,premium,516.67,516.67,high,medium,8,spaceship,,,22/10/2026 09:40
-3aaf7baf-087f-4ea8-abdf-b64fea3675a1,learning.voto,available,19.99,107.99,high,medium,8,godaddy,,,22/10/2026 09:40
-9308afdd-5263-44dc-81a6-b46cb499998f,learning.fun,premium,13800,13800,high,medium,8,namesilo,,,22/10/2026 09:40
-4aadde66-4d2d-49d7-b98a-8a012f81d3fe,learning.republican,available,9.99,9.99,high,medium,8,godaddy,,,22/10/2026 09:40
+75567679-cbca-45d9-826b-1fcb18a87b12,learning.gifts,premium,207.2,207.2,high,high,8,spaceship,,,24/10/2026 03:00
+81c7628f-5d49-4ded-9114-b91377d0a0d7,learning.hot,premium,100.5,116,high,high,8,unstoppable,,,24/10/2026 03:00
 303504cb-a0a1-4980-b8bb-5b1788fd99e9,school.cruises,available,44.71,44.71,high,medium,6,spaceship,,,22/10/2026 20:33
-b4fc1deb-aa83-4538-a6f9-3a3305743c60,learning.soy,premium,159.2,174.9,high,medium,8,unstoppable,,,22/10/2026 09:40
-58d2a50a-63fb-49c5-b987-6af8d8fff971,learning.cv,premium,1042.76,7.76,high,medium,8,spaceship,,,22/10/2026 09:40
-cc9bf815-703b-483e-a830-549962b11a80,learning.music,available,,,high,low,8,,,,23/10/2026 09:39
-af5370ae-4f21-4961-8ce6-250350de52d4,learning.security,available,1863.2,2000.18,high,medium,8,spaceship,,,22/10/2026 09:40
+defa562e-df42-46ee-8276-c90770009c3b,learning.giving,available,5.99,22.66,high,high,8,porkbun,,,24/10/2026 03:00
+2606cfa6-afe7-41f4-9d89-127919c9f555,learning.attorney,premium,4140,4140,high,high,8,namesilo,,,24/10/2026 03:00
 839e17d4-64d0-4a7f-9ecf-001b4239780a,school.camp,resell,,,high,medium,6,Dynadot Inc,22/05/2021 05:35,22/05/2027 05:35,22/10/2026 20:33
 00a6afeb-16f6-4350-8358-df3d1e17ee33,school.spot,premium,640,640,high,medium,6,namesilo,,,22/10/2026 20:33
+45afe904-63f9-4fb6-91d0-98b902b70fcc,learning.fm,premium,249.6,102,high,high,8,namesilo,,,24/10/2026 03:00
 4f2fe475-594e-49f0-96b6-9d7818d001a6,school.zone,resell,,,high,medium,6,"Sav.com, LLC - 35",27/09/2026 15:15,27/09/2027 15:15,22/10/2026 20:33
 8bb711c8-f72a-44c8-8ebd-6e5d09f84bb8,school.limited,premium,78.54,78.54,high,medium,6,namesilo,,,22/10/2026 20:33
-e8a70d0d-7f18-411a-8de3-a85536e6478c,learning.mobile,premium,330,330,high,medium,8,dynadot,,,22/10/2026 09:40
 819f63f6-2514-455e-a754-c4f13b932ec6,school.diet,available,104.99,114.99,high,medium,6,namesilo,,,22/10/2026 20:33
-0da0e2e5-09b7-4ec4-b09a-67f9fe240831,learning.vision,resell,,,high,medium,8,Dynadot Inc,03/02/2026 17:00,03/02/2027 17:00,22/10/2026 09:40
+305b4f56-2d70-458c-9142-39d2f3f5ea70,learning.blog,premium,1662.5,6900,high,high,8,namesilo,,,24/10/2026 03:00
 fef5cdaf-a26e-4aa0-a816-bde9d2452fd6,school.download,premium,640,77.35,high,medium,6,namesilo,,,22/10/2026 20:33
-23bda5ec-d767-4fd0-8827-53aaf4e0ca5e,learning.today,resell,,,high,medium,8,"GoDaddy.com, LLC",09/07/2015 05:24,09/07/2027 05:24,22/10/2026 09:40
 35c08fc4-23f4-49b9-af6d-04d5effb62bb,school.co,resell,,,high,medium,6,Hello Internet Corp.,25/02/2010 00:52,24/02/2027 23:59,22/10/2026 20:33
 cecb452b-1ff8-4a35-934a-9bdb8795b56b,school.memorial,available,41.6,41.6,high,medium,6,spaceship,,,22/10/2026 20:33
+543cabfd-418b-4688-8090-5ae27a9e5a55,learning.singles,available,3.31,27.11,high,high,8,spaceship,,,24/10/2026 03:00
 678bda17-64dc-4d18-ac15-9bba66bada9e,school.mobile,premium,1092.18,1092.18,high,medium,6,porkbun,,,22/10/2026 20:33
-440ba207-a5ea-4c45-8736-d3e38f74bf00,learning.study,premium,1100,1100,high,medium,8,dynadot,,,22/10/2026 09:40
-96d34329-13a3-4262-a18b-a47ea1a67927,learning.voting,available,1398,1448,high,medium,8,namecheap,,,22/10/2026 09:40
 5c43572e-c3d1-4d1e-8bd1-d6d5b67439bd,school.yoga,premium,207.2,26.08,high,medium,6,spaceship,,,22/10/2026 20:33
+a6f30b2a-fcec-4174-bff9-b5b264265d7e,learning.guitars,available,104.99,114.99,high,high,8,namesilo,,,24/10/2026 03:00
 c815fa21-9366-479b-98e7-c8bf681bfd88,school.lawyer,premium,1100,1100,high,medium,6,dynadot,,,22/10/2026 20:33
 1c1b1a44-6213-425e-a51a-c325ac00ace0,school.boo,premium,516.67,516.67,high,medium,6,spaceship,,,22/10/2026 20:33
-bad062e5-49a2-4a84-991e-06f60ea3b5aa,learning.vodka,premium,41.6,26.08,high,medium,8,spaceship,,,22/10/2026 09:40
 14c7a3d1-3b7d-40bb-9f2d-c463fb4ffc9b,school.adult,available,95.2,95.2,high,medium,6,cloudflare,,,22/10/2026 20:33
+dfcc7cff-4636-480d-9e0d-663134d7e866,learning.jetzt,available,23.99,23.99,high,high,8,namesilo,,,24/10/2026 03:00
 c95210fc-83da-4fec-b5e9-5fa050938654,school.wtf,resell,,,high,medium,6,"Sav.com, LLC - 24",09/02/2026 15:15,09/02/2027 15:15,22/10/2026 20:33
 856b2c10-89fc-4a95-b7a0-6e074f48f1c0,school.family,premium,400.5,440,high,medium,6,unstoppable,,,22/10/2026 20:33
-508c6635-8876-426c-8c23-009565bf0f76,learning.country,available,,,high,low,8,,,,23/10/2026 09:39
+f938b98d-83fd-4a60-a802-ba3ad48a3af0,learning.tennis,premium,102.67,102.67,high,high,8,spaceship,,,24/10/2026 03:00
 7f3baf7d-de10-41ca-a792-e992c13a9498,school.racing,premium,517.7,258.95,high,medium,6,spaceship,,,22/10/2026 20:33
-fbb16fb4-0735-4aa8-a0a0-22cf7da0a75c,learning.florist,available,49.99,49.99,high,medium,8,godaddy,,,22/10/2026 09:40
 1ba06e04-d4fc-42aa-8e2c-6d981cc295cf,school.design,premium,650.5,832,high,medium,6,unstoppable,,,22/10/2026 20:33
+e368a3f4-37a6-4951-8913-bd3e1b3dfdff,learning.auto,available,1863.2,2064.2,high,high,8,spaceship,,,24/10/2026 03:00
 39c18e01-c94c-4a39-b2c9-18814e41855f,school.catering,premium,414.2,414.2,high,medium,6,spaceship,,,22/10/2026 20:33
-75567679-cbca-45d9-826b-1fcb18a87b12,learning.gifts,premium,242,242,high,medium,8,namesilo,,,22/10/2026 09:40
 128a0c5f-4af9-4b29-96db-c858e5a639cb,instruction.how,premium,39.2,40.57,high,low,11,unstoppable,,,22/10/2026 23:50
-2606cfa6-afe7-41f4-9d89-127919c9f555,learning.attorney,premium,4140,4140,high,medium,8,namesilo,,,22/10/2026 09:40
+ff6703cd-1358-44a8-b18e-73ab202582bb,learning.surgery,available,54.99,54.99,high,high,8,namesilo,,,24/10/2026 03:00
 89312b0b-48d1-454a-87f1-8a3617f50533,school.photos,resell,,,high,medium,6,Porkbun LLC,15/06/2015 19:09,15/06/2027 19:09,22/10/2026 20:33
-81c7628f-5d49-4ded-9114-b91377d0a0d7,learning.hot,premium,116,116,high,medium,8,namesilo,,,22/10/2026 09:40
+330fcb2b-eb98-4c27-9a10-a59e7afda0e3,learning.site,premium,3250,13000,high,high,8,namecheap,,,24/10/2026 03:00
+982a87f5-1fdc-413c-b96e-97c75bbe7b85,learning.date,premium,384,53.92,high,high,8,namesilo,,,24/10/2026 03:00
 f7eb1454-1404-4fd7-a693-f13439386109,school.fans,premium,258.95,517.7,high,medium,6,spaceship,,,22/10/2026 20:33
-defa562e-df42-46ee-8276-c90770009c3b,learning.giving,available,6.41,22.39,high,medium,8,spaceship,,,22/10/2026 09:40
+61f8f8cd-12e3-4834-842d-f1f1a56efce3,learning.archi,available,19.99,103.99,high,high,8,namesilo,,,24/10/2026 03:00
 dce37f9e-a3d0-439d-8c01-7dd9b2313e68,school.democrat,available,5.66,5.66,high,medium,6,porkbun,,,22/10/2026 20:33
 02eaa1eb-e9d0-4b78-b082-028b0bb05336,teaching.courses,premium,1035.2,1035.2,high,low,8,spaceship,,,07/10/2026 07:33
 e1fc07b5-0a17-40e0-bde1-c90e73423deb,school.hosting,available,309.99,429.99,high,medium,6,namesilo,,,22/10/2026 20:33
 4c655a54-ff8e-4965-b226-0418e819cb33,school.eco,premium,7762.7,59.71,high,medium,6,spaceship,,,22/10/2026 20:33
-ecaac9b2-58a4-426f-8d52-391d3aa5a8b8,learning.juegos,available,,,high,low,8,,,,23/10/2026 09:39
-543cabfd-418b-4688-8090-5ae27a9e5a55,learning.singles,available,3.31,27.11,high,medium,8,spaceship,,,22/10/2026 09:40
-45afe904-63f9-4fb6-91d0-98b902b70fcc,learning.fm,premium,214.5,89.25,high,medium,8,dynadot,,,22/10/2026 09:40
+d197df04-8971-40e9-afb4-a32d17377a39,learning.navy,available,109.99,109.99,high,high,8,namesilo,,,24/10/2026 03:00
 8b637c3b-a636-4f3a-b56f-b6dd0bdcb049,school.you,premium,640,640,high,medium,6,namesilo,,,22/10/2026 20:33
 f1b649bc-9102-40a1-82cc-e594717545fe,school.navy,available,109.99,109.99,high,medium,6,namesilo,,,22/10/2026 20:33
 d6234777-9e30-4182-9eb8-ffa8371cf9bd,school.love,premium,640,640,high,medium,6,namesilo,,,22/10/2026 20:33
-305b4f56-2d70-458c-9142-39d2f3f5ea70,learning.blog,premium,1662.5,6900,high,medium,8,namesilo,,,22/10/2026 09:40
+b6dcccb8-f1c8-4594-a87c-7b7853620986,learning.bar,premium,576,576,high,high,8,namesilo,,,24/10/2026 03:00
+6c4e717a-c9fa-446f-84d0-aa4b29a8b907,learning.film,premium,260,260,high,high,8,namecheap,,,24/10/2026 03:00
 58d3b1c9-cafa-46f0-979b-30deeb0ec926,school.forsale,premium,118.8,118.8,high,medium,6,namesilo,,,22/10/2026 20:33
-dfcc7cff-4636-480d-9e0d-663134d7e866,learning.jetzt,available,27.48,33.98,high,medium,8,namecheap,,,22/10/2026 09:40
+8e22560b-4ecf-482f-8b29-93d0690155ab,learning.observer,premium,23.6,23.6,high,high,8,namesilo,,,24/10/2026 03:00
+8fc8369e-1d4b-4cd9-9377-9a71e305b7e6,learning.dad,premium,516.67,516.67,high,high,8,spaceship,,,24/10/2026 03:00
 27d4b5a9-f0e4-46c7-b061-a4b981134f0c,school.phd,premium,649.2,671.92,high,medium,6,unstoppable,,,22/10/2026 20:33
-43016aa5-2420-4d2c-9686-eaa9e5914f87,learning.cash,resell,,,high,medium,8,"Xiamen ChinaSource Internet Service Co., Ltd",22/10/2021 13:15,22/10/2027 13:15,23/10/2026 05:31
-d9e0fdfc-1cee-49fb-8b8e-4b867e4aaf5c,learning.fans,available,,,high,low,8,,,,23/10/2026 09:39
-8956c46e-e881-4c8b-8b76-25fff40aec0a,learning.life,resell,,,high,medium,8,"GoDaddy.com, LLC",07/07/2015 20:50,07/07/2027 20:50,22/10/2026 09:40
 26d626ba-28d1-4f95-b957-25a24a1da846,school.site,premium,1375,5500,high,medium,6,dynadot,,,22/10/2026 20:33
-c69cf44b-ece8-42c8-8f0c-7cfc6ce91d2d,learning.sale,resell,,,high,medium,8,"Chengdu West Dimension Digital Technology Co., Ltd.",17/03/2025 15:15,17/03/2027 15:15,22/10/2026 09:40
-2db20df6-62aa-4375-abe8-d8f5d58675ac,learning.international,resell,,,high,medium,8,Dynadot Inc,25/07/2026 17:00,25/07/2027 17:00,22/10/2026 09:40
-a6f30b2a-fcec-4174-bff9-b5b264265d7e,learning.guitars,available,214.99,214.99,high,medium,8,godaddy,,,22/10/2026 09:40
+659c0ff9-a82f-45b3-a300-a23bfb8bf20a,learning.lease,available,56.99,56.99,high,high,8,namesilo,,,24/10/2026 03:00
 435055d4-e0a0-4961-a552-3cd81186b747,school.software,premium,3450,3450,high,medium,6,namesilo,,,22/10/2026 20:33
 6a183665-26d4-4b57-a643-2c325158d34e,training.futbol,premium,102.67,102.67,high,medium,8,spaceship,,,23/10/2026 07:17
+5b72c814-c8bb-4e30-be92-e4306fe0f77c,learning.protection,available,1999.99,2049.99,high,high,8,namesilo,,,24/10/2026 03:00
 62d4cfe8-ca70-4ab2-a29f-caa3d382923c,school.media,resell,,,high,medium,6,"Sav.com, LLC",17/06/2015 16:04,17/06/2027 16:04,22/10/2026 20:33
 093bfb5b-9ed0-44c5-a4d6-ee6b74fcb35c,school.bargains,premium,207.2,207.2,high,medium,6,spaceship,,,22/10/2026 20:33
+22be7238-9aaf-4b2f-ba8e-1e5d24bd5fe8,learning.ryukyu,available,17.98,22.98,high,high,8,namecheap,,,24/10/2026 03:00
+1581ed6d-bfad-42c1-8cbe-b9a52824957d,learning.moi,available,25.99,25.99,high,high,8,namesilo,,,24/10/2026 03:00
 70bf4618-d4f5-4447-bca2-73271a2910d9,school.gripe,available,6.99,6.99,high,medium,6,namesilo,,,22/10/2026 20:33
-f938b98d-83fd-4a60-a802-ba3ad48a3af0,learning.tennis,premium,128.7,128.7,high,medium,8,namecheap,,,22/10/2026 09:40
 0b8a0f24-0b41-4d8a-97f0-84a25b80a5cb,school.charity,premium,242,242,high,medium,6,namesilo,,,22/10/2026 20:33
 92fcc873-8f77-41d9-af6b-199ffe98d8f8,student.degree,premium,242,242,high,low,7,namesilo,,,29/09/2026 03:37
-e368a3f4-37a6-4951-8913-bd3e1b3dfdff,learning.auto,available,2519.99,3999.99,high,medium,8,godaddy,,,22/10/2026 09:40
 b4bf225e-0840-41fd-ad34-cd388294bd5b,teacher.education,resell,,,high,medium,7,Dynadot Inc,15/07/2015 16:00,15/07/2027 16:00,23/10/2026 06:40
-a3f0e928-050b-4ae0-adc6-55fc85f13d05,learning.tv,resell,,,high,medium,8,InternetX GmbH,18/03/2010 17:14,18/03/2027 17:14,22/10/2026 09:40
 65094aa1-4b76-4540-9f3d-81e729924072,school.sexy,available,2587.7,2587.7,high,medium,6,spaceship,,,22/10/2026 20:33
-ff6703cd-1358-44a8-b18e-73ab202582bb,learning.surgery,available,93.99,93.99,high,medium,8,godaddy,,,22/10/2026 09:40
-3f2f1e03-0e8e-40fd-aa52-4159e0cff2cb,learning.work,resell,,,high,medium,8,"Chengdu West Dimension Digital Technology Co., Ltd.",02/11/2023 00:00,02/11/2027 00:00,22/10/2026 09:40
 50152add-efb0-408b-87da-4535363dcdf7,school.estate,available,6.41,31.25,high,medium,6,spaceship,,,22/10/2026 20:33
 89f90572-4e72-43b0-ac6d-077060ca76ca,school.fitness,premium,242,242,high,medium,6,namesilo,,,22/10/2026 20:33
+ecedf45b-fbb1-4167-a7f7-c2db89e1f7cb,learning.immobilien,available,29.2,29.2,high,high,8,cloudflare,,,24/10/2026 03:00
 ec54c8b7-f1cd-4b77-a89b-31797036e784,school.talk,premium,517.7,517.7,high,medium,6,spaceship,,,22/10/2026 20:33
+d522cbcf-12e1-442e-8866-9ecb6de63bf5,learning.london,premium,136.97,31.57,high,high,8,namesilo,,,24/10/2026 03:00
+6b79c238-7728-4104-bc53-756915f24b83,learning.black,available,27.99,64.99,high,high,8,namesilo,,,24/10/2026 03:00
 e032cc5f-d940-4fce-9776-687a440b0d8f,instruction.pro,resell,,,high,low,11,DropCatch.com 394 LLC,28/06/2026 15:15,28/06/2027 15:15,22/10/2026 23:50
 4254f9c7-ce98-40e2-8def-1007afe998ab,school.lease,premium,118.8,118.8,high,medium,6,namesilo,,,22/10/2026 20:33
-982a87f5-1fdc-413c-b96e-97c75bbe7b85,learning.date,premium,310.7,51.95,high,medium,8,spaceship,,,22/10/2026 09:40
 cc2fed0b-7753-428f-b9ad-0cd05c167961,study.college,premium,650,650,high,high,5,namecheap,,,24/10/2026 00:42
 b65ead79-6746-4b03-898a-469a157e1ea0,school.prof,premium,649.2,671.92,high,medium,6,unstoppable,,,22/10/2026 20:33
-330fcb2b-eb98-4c27-9a10-a59e7afda0e3,learning.site,premium,10000.2,11000,high,medium,8,unstoppable,,,22/10/2026 09:40
+cdf2c0ae-ab20-40ec-813a-c95b723ededc,learning.rsvp,premium,648.7,648.7,high,high,8,namecheap,,,24/10/2026 03:00
 e9641c21-74d5-4981-b11d-aa753f114488,school.cyou,premium,390,780,high,medium,6,namecheap,,,22/10/2026 20:33
+b76f4134-6355-405f-b37a-d87c3883dc32,learning.gmbh,available,36.43,36.43,high,high,8,spaceship,,,24/10/2026 03:00
 55a72a63-80f1-4e6f-972e-235c6a5f8159,instruction.prof,premium,49.2,50.92,high,low,11,unstoppable,,,22/10/2026 23:50
+bb751206-a5b6-42a8-84af-3bec1c1db1d6,learning.software,premium,414.2,414.2,high,high,8,spaceship,,,24/10/2026 03:00
 ceae0920-a4e1-4ae6-87b0-f6cc8e616945,school.ing,premium,13000,13000,high,low,6,namecheap,,,23/10/2026 02:46
-61f8f8cd-12e3-4834-842d-f1f1a56efce3,learning.archi,available,14.98,147.98,high,medium,8,namecheap,,,22/10/2026 09:40
 c8101ce7-fdc5-42db-a01e-dd9ed35b4e25,school.ooo,available,24.99,24.99,high,medium,6,namesilo,,,22/10/2026 20:33
 0f4406ef-9d37-4ab2-a893-0adf08d87f31,school.expert,resell,,,high,medium,6,"Sav.com, LLC - 34",02/04/2026 15:16,02/04/2027 15:16,22/10/2026 20:33
 04c659a8-4b77-4baa-becc-f40bb6caa955,school.cfd,premium,310.7,621.2,high,medium,6,spaceship,,,22/10/2026 20:33
-6c4e717a-c9fa-446f-84d0-aa4b29a8b907,learning.film,premium,260,260,high,medium,8,namecheap,,,22/10/2026 09:40
+9315a242-839b-4b78-a18b-bd77facf11a3,learning.tires,available,5.99,78.99,high,high,8,namesilo,,,24/10/2026 03:00
 459dfd14-1f2c-477c-b49e-fbfd772876bf,school.website,premium,517.7,1035.2,high,medium,6,spaceship,,,22/10/2026 20:33
 78f358bd-c1ca-4b1f-8dab-2bdc1648bd4b,university.guru,premium,118.8,118.8,high,medium,10,namesilo,,,22/10/2026 12:42
 da5042a2-6963-4350-9666-ed440c2e9280,school.guide,resell,,,high,medium,6,"NameCheap, Inc.",03/05/2026 19:29,03/05/2027 19:29,22/10/2026 20:33
 9e01c2b3-d349-4211-b02d-a33445bace86,instruction.training,available,15.99,41.99,high,low,11,namesilo,,,22/10/2026 23:50
 1adc3830-cf49-4069-ac41-3ae258ceb6bb,school.ventures,resell,,,high,medium,6,"Sav.com, LLC - 12",03/04/2026 15:15,03/04/2027 15:15,22/10/2026 20:33
-d197df04-8971-40e9-afb4-a32d17377a39,learning.navy,available,109.99,109.99,high,medium,8,namesilo,,,22/10/2026 09:40
-659c0ff9-a82f-45b3-a300-a23bfb8bf20a,learning.lease,available,43.2,43.2,high,medium,8,cloudflare,,,22/10/2026 09:40
 92b2551f-ced7-419d-b9ac-3501e5a9b15b,university.shiksha,available,10.55,41.6,high,medium,10,spaceship,,,22/10/2026 12:42
 d2548b79-f0a6-4fe7-a700-41f9d0be509b,instruction.university,available,49.88,49.88,high,low,11,spaceship,,,22/10/2026 23:50
-b6dcccb8-f1c8-4594-a87c-7b7853620986,learning.bar,premium,576,576,high,medium,8,namesilo,,,22/10/2026 09:40
-8e22560b-4ecf-482f-8b29-93d0690155ab,learning.observer,premium,20.9,20.9,high,medium,8,spaceship,,,22/10/2026 09:40
-8fc8369e-1d4b-4cd9-9377-9a71e305b7e6,learning.dad,premium,516.67,516.67,high,medium,8,spaceship,,,22/10/2026 09:40
+9e77e132-16f0-4394-a5e2-4135cb624b7a,learning.cleaning,available,75.49,75.49,high,high,8,namesilo,,,24/10/2026 03:00
 6281e19b-3872-4ce2-bfeb-188974b95abc,school.gmbh,available,35.2,35.2,high,medium,6,cloudflare,,,22/10/2026 20:33
 8900740b-14a6-4e31-bf15-a061b102cb16,school.press,premium,2587.7,5175.2,high,medium,6,spaceship,,,22/10/2026 20:33
-f0cb9382-67c0-43ba-b65f-d0f4a7bad667,learning.house,resell,,,high,medium,8,Dynadot Inc,08/07/2025 15:16,08/07/2027 15:16,22/10/2026 09:40
-5b72c814-c8bb-4e30-be92-e4306fe0f77c,learning.protection,available,2000.2,2000.2,high,medium,8,cloudflare,,,22/10/2026 09:40
-d522cbcf-12e1-442e-8866-9ecb6de63bf5,learning.london,premium,136.47,31.46,high,medium,8,namesilo,,,22/10/2026 09:40
-6b79c238-7728-4104-bc53-756915f24b83,learning.black,available,15.73,51.95,high,medium,8,spaceship,,,22/10/2026 09:40
+4bcdf952-7a14-4ba9-93e3-e7c8fe65e013,learning.gift,available,14.99,14.99,high,high,8,namesilo,,,24/10/2026 03:00
+4ac43a37-9f21-42f3-8d8a-38c784b93aa6,learning.beer,available,2.19,32.49,high,high,8,namesilo,,,24/10/2026 03:00
 cfdf1ecc-5ee0-4316-9111-ab47ff5b6336,training.systems,resell,,,high,medium,8,Dynadot Inc,23/09/2016 07:38,23/09/2027 07:38,23/10/2026 07:17
 3a00bce6-94a3-4ee3-bf64-b2fae77f91cc,instruction.kids,premium,330,19.48,high,low,11,dynadot,,,22/10/2026 23:50
 7abf6f2f-bf75-49c3-9161-3f1e9829c650,instruction.quest,available,1.99,14.45,high,low,11,dynadot,,,22/10/2026 23:50
-22be7238-9aaf-4b2f-ba8e-1e5d24bd5fe8,learning.ryukyu,available,33.99,33.99,high,medium,8,godaddy,,,22/10/2026 09:40
-1581ed6d-bfad-42c1-8cbe-b9a52824957d,learning.moi,available,21.4,21.4,high,medium,8,dynadot,,,22/10/2026 09:40
 2d44114e-0f92-40d3-8bb1-723851e8d50b,teaching.cloud,premium,176,220,high,low,8,dynadot,,,07/10/2026 07:33
 c7eafbd4-bca1-496d-8069-e2ee24f1147b,school.vegas,premium,242,119.94,high,medium,6,namesilo,,,22/10/2026 20:33
+cf0360fe-ef31-44e9-b63f-86877623a8e7,learning.gratis,available,18.83,18.83,high,high,8,spaceship,,,24/10/2026 03:00
 1b795a6d-748b-4efd-8f84-897a451f87fb,school.accountants,available,90.2,90.2,high,medium,6,cloudflare,,,22/10/2026 20:33
 348164b0-9622-4b57-a137-7881acb88f4b,school.airforce,available,103.99,103.99,high,medium,6,namesilo,,,22/10/2026 20:33
-ecedf45b-fbb1-4167-a7f7-c2db89e1f7cb,learning.immobilien,available,29.2,29.2,high,medium,8,cloudflare,,,22/10/2026 09:40
 f797c32c-1df7-43d6-b1fb-7c56eaec5f0c,teaching.auction,available,29.18,29.18,high,low,8,spaceship,,,07/10/2026 07:33
-b76f4134-6355-405f-b37a-d87c3883dc32,learning.gmbh,available,35.2,35.2,high,medium,8,cloudflare,,,22/10/2026 09:40
 6e0f024c-2fb9-4e10-aa6a-738064216786,school.training,resell,,,high,medium,6,"Spaceship, Inc.",06/03/2023 15:15,06/03/2027 15:15,22/10/2026 20:33
 51e734d7-d2c4-44ac-a14e-3dd85b5db170,instruction.shiksha,premium,500.5,640,high,low,11,unstoppable,,,22/10/2026 23:50
 21459873-e986-402a-b512-393c98430a55,school.bar,premium,495,495,high,medium,6,dynadot,,,22/10/2026 20:33
-cdf2c0ae-ab20-40ec-813a-c95b723ededc,learning.rsvp,premium,545.26,545.26,high,medium,8,porkbun,,,22/10/2026 09:40
+7a2dd22f-969e-4683-92ea-2ecb6526bf29,learning.health,premium,1035.2,62.3,high,high,8,spaceship,,,24/10/2026 03:00
+e29fcd6d-806c-4739-aafa-37822a286ab7,learning.store,premium,3450,3450,high,high,8,namesilo,,,24/10/2026 03:00
 b327d1fa-f34d-4d68-9c76-8ad45dbcfd90,university.institute,premium,,,high,medium,10,,,,22/10/2026 12:42
+85e03f78-1ba2-4366-a0ef-9dc11e97bdca,learning.car,available,2070,2400,high,high,8,namecheap,,,24/10/2026 03:00
 b18dd3eb-5e69-498d-8842-31ac940e8964,teaching.beer,available,1.24,26.08,high,low,8,spaceship,,,07/10/2026 07:33
 11d5052a-84dd-4025-8658-7875f80b5ed9,teaching.contact,available,14.99,14.99,high,low,8,namesilo,,,07/10/2026 07:33
 ef994d40-b72d-4994-90a9-b3cf676663ca,teaching.vote,available,70.2,70.2,high,low,8,cloudflare,,,07/10/2026 07:33
-bb751206-a5b6-42a8-84af-3bec1c1db1d6,learning.software,premium,414.2,414.2,high,medium,8,spaceship,,,22/10/2026 09:40
 891ebb19-de07-4f4d-b821-5bf55a6dceed,school.skin,premium,11040,11040,high,medium,6,namesilo,,,22/10/2026 20:33
+0dc1b90d-7a4c-42a1-bccd-517cbfda061f,learning.vote,available,34.99,90.99,high,high,8,namesilo,,,24/10/2026 03:00
 eaae7912-3ac0-4aca-8aaf-334aa5b629e8,school.rsvp,premium,499.2,516.67,high,medium,6,unstoppable,,,22/10/2026 20:33
-47006119-2d01-4d21-b8d3-2f4f3ad81625,learning.boston,available,,,high,low,8,,,,23/10/2026 09:39
 b5408197-d795-4d47-bc44-bb0b07eef34f,teaching.audio,available,93.35,103.4,high,low,8,spaceship,,,07/10/2026 07:33
 063f773f-324f-4a8f-aec8-28a7b2275b5b,instruction.mba,available,17.99,39.99,high,low,11,namesilo,,,22/10/2026 23:50
+8adbb45d-c207-4dcd-bbf5-930c9f84d8bd,learning.name,available,8.98,9.98,high,high,8,namecheap,,,24/10/2026 03:00
 92c5e03c-ca76-45b2-b0ca-4681ef6397ca,school.clinic,available,20.99,64.99,high,medium,6,namesilo,,,22/10/2026 20:33
-9315a242-839b-4b78-a18b-bd77facf11a3,learning.tires,available,155.99,155.99,high,medium,8,godaddy,,,22/10/2026 09:40
+8ec10ead-85e1-4816-bf47-6b42fff9b0e3,learning.contractors,available,35.49,35.49,high,high,8,namesilo,,,24/10/2026 03:00
 2daf6a1a-2337-4b0e-9c48-038141baa19b,school.cars,available,1999.99,2199,high,medium,6,namesilo,,,22/10/2026 20:33
 48666125-ae06-44a3-b3d4-f60f09f56977,instruction.vodka,available,26.97,26.97,high,low,11,dynadot,,,22/10/2026 23:50
 ecddc2be-a983-4b5e-997d-34f78e1d8459,teaching.fitness,available,8.5,33.32,high,low,8,unstoppable,,,07/10/2026 07:33
 5f719f1c-3f03-4f3f-a14b-6ee0d020c274,instruction.fit,premium,440,26.97,high,low,11,dynadot,,,22/10/2026 23:50
-4bcdf952-7a14-4ba9-93e3-e7c8fe65e013,learning.gift,available,14.99,14.99,high,medium,8,namesilo,,,22/10/2026 09:40
+a538e83d-cb21-412b-85a7-767053745533,learning.qpon,premium,2750,21.94,high,high,8,dynadot,,,24/10/2026 03:00
+e796b84e-22d6-4c66-a9c0-6235513ccc6e,learning.host,premium,640,640,high,high,8,namesilo,,,24/10/2026 03:00
 e03aa5f4-c5b5-48d5-a198-5e593de5ef8c,school.guitars,available,100.2,100.2,high,medium,6,cloudflare,,,22/10/2026 20:33
-b016b33f-0560-42e9-ba5d-0193ced957d9,learning.fit,resell,,,high,medium,8,"Chengdu West Dimension Digital Technology Co., Ltd.",06/09/2022 01:28,06/09/2027 01:28,22/10/2026 09:40
 2996a92c-6ba7-44f9-85a3-de4f92058b10,teaching.photo,premium,103.7,103.7,high,low,8,spaceship,,,07/10/2026 07:33
 df2c7e7f-6ca2-4eb8-ae06-aa1c38c2cfeb,teaching.cars,available,1863.2,2064.2,high,low,8,spaceship,,,07/10/2026 07:33
+8e34914b-8763-4886-a624-24ba2a096599,learning.ooo,premium,1278.72,23.59,high,high,8,namesilo,,,24/10/2026 03:00
 eeb6d06f-89d0-473c-a8f9-8899ba390084,school.vacations,premium,207.2,207.2,high,medium,6,spaceship,,,22/10/2026 20:33
-9e77e132-16f0-4394-a5e2-4135cb624b7a,learning.cleaning,available,75.49,75.49,high,medium,8,namesilo,,,22/10/2026 09:40
 8663611c-6b00-4d97-a0dc-01d4fcfb2a4c,university.fitness,premium,118.8,118.8,high,medium,10,namesilo,,,22/10/2026 12:42
+a06c3329-990e-47e5-8c8b-63e96df4cc16,learning.luxury,available,26,26,high,high,8,spaceship,,,24/10/2026 03:00
+955d0b51-03c6-4b8f-bdb1-64698e27da64,learning.luxe,premium,4367.16,16.9,high,high,8,porkbun,,,24/10/2026 03:00
 d8f2d24a-9082-4144-ac1e-84d99d7c2fcf,teaching.jewelry,available,51.95,51.95,high,low,8,spaceship,,,07/10/2026 07:33
 ac6cbdfc-0df5-4973-8f6a-585d17b04332,school.barcelona,available,25.04,25.04,high,medium,6,spaceship,,,22/10/2026 20:33
 20aa8fde-4ca4-43c9-833f-eec9f9d0071b,training.prof,premium,671.92,671.92,high,medium,8,spaceship,,,23/10/2026 07:17
 e45c9bd0-6fcf-48fd-b6af-d3df366dc5a6,teaching.gives,available,21.7,21.7,high,low,8,cloudflare,,,07/10/2026 07:33
-cf0360fe-ef31-44e9-b63f-86877623a8e7,learning.gratis,available,21.62,21.62,high,medium,8,dynadot,,,22/10/2026 09:40
-4ac43a37-9f21-42f3-8d8a-38c784b93aa6,learning.beer,available,1.99,49.99,high,medium,8,godaddy,,,22/10/2026 09:40
+faf7d9fe-4927-4153-ba6b-4412cf322635,learning.bayern,available,34.99,34.99,high,high,8,namesilo,,,24/10/2026 03:00
 d8698bf6-9bea-47a6-b8e1-309dbdf10236,curriculum.degree,available,52.99,52.99,high,medium,10,namesilo,,,23/10/2026 01:49
 81aacad4-60b4-43a7-b422-dd6249163e8b,teaching.bayern,available,34.99,34.99,high,low,8,namesilo,,,07/10/2026 07:33
 9f2f80bf-b523-4196-ae9d-7260bf6b0259,university.college,premium,13000,13000,high,medium,10,namecheap,,,22/10/2026 12:42
 43df9bdf-5bc5-4a11-a899-739245b7dd69,school.fast,premium,640,640,high,medium,6,namesilo,,,22/10/2026 20:33
+970eb8e7-36bf-424b-b3ac-389d44486232,learning.eco,premium,3622.7,59.71,high,high,8,spaceship,,,24/10/2026 03:00
 80a478f2-7af9-4140-9f69-96638abaa72e,teaching.supply,premium,36.32,72.57,high,low,8,porkbun,,,07/10/2026 07:33
 b4dd363e-a0ae-4b03-8de3-00c20f98dd74,school.vet,available,33.32,33.32,high,medium,6,spaceship,,,22/10/2026 20:33
 9e7d58b8-54ab-4e4e-b561-97f8b98402e2,university.pw,premium,3250,3250,high,medium,10,namecheap,,,22/10/2026 12:42
 388dd7c4-eafd-4cfd-9bbd-3fa4bd7f282c,instruction.florist,available,8.24,26.97,high,low,11,dynadot,,,22/10/2026 23:50
 f80cb384-0055-4289-adad-d4e2323b8955,teaching.villas,available,59.99,59.99,high,low,8,namesilo,,,07/10/2026 07:33
+f785ba64-7870-4438-abbd-3b1cc43d9031,learning.page,premium,516.67,516.67,high,high,8,spaceship,,,24/10/2026 03:00
+24135542-3286-4351-b1a0-fc7377c92b2b,learning.adult,available,52.01,98.35,high,high,8,porkbun,,,24/10/2026 03:00
 21d338ce-4b9a-4f53-a120-7829e8dd76ec,training.company,resell,,,high,medium,8,"Spaceship, Inc.",09/09/2022 13:15,09/09/2027 13:15,23/10/2026 07:17
 192bbf0e-f0e9-4085-86b1-2e93e53fa374,instruction.vip,premium,750.5,17.7,high,low,11,unstoppable,,,22/10/2026 23:50
+8e9c86b5-3ff0-4f01-ae05-8d69ce01017e,learning.online,premium,34500,34500,high,high,8,namesilo,,,24/10/2026 03:00
 9dfac0d0-1391-452e-9c5f-63450d32fbc3,classroom.expert,available,48.2,48.2,high,low,9,cloudflare,,,29/09/2026 09:53
 d496dcbc-cdf1-49e4-b305-21f0bf72e47e,teaching.cash,available,4.34,31.25,high,low,8,spaceship,,,07/10/2026 07:33
 8393b285-0146-4513-8c55-877e372c77f8,school.gift,available,20.98,23.98,high,medium,6,namecheap,,,22/10/2026 20:33
@@ -721,29 +707,26 @@ d496dcbc-cdf1-49e4-b305-21f0bf72e47e,teaching.cash,available,4.34,31.25,high,low
 7f560aa2-93c3-4f26-b10e-151dd96f861b,teaching.ventures,available,5.38,47.81,high,low,8,spaceship,,,07/10/2026 07:33
 a55dd312-e0e5-4f53-8b00-c1effdaeb89c,teaching.trade,premium,650,84.5,high,low,8,namecheap,,,07/10/2026 07:33
 39f98721-a4af-4ce7-a2f4-44d34e1cf59d,study.prof,premium,843.7,843.7,high,high,5,namecheap,,,24/10/2026 00:42
-0dc1b90d-7a4c-42a1-bccd-517cbfda061f,learning.vote,available,33,90.99,high,medium,8,unstoppable,,,22/10/2026 09:40
+b5567419-72b4-4f52-99ce-fefd832e4092,learning.wedding,available,32.49,32.49,high,high,8,namesilo,,,24/10/2026 03:00
 605a6f8a-92b0-46ad-ba19-596f0f8f446b,training.voyage,available,45.2,45.2,high,medium,8,cloudflare,,,23/10/2026 07:17
-7a2dd22f-969e-4683-92ea-2ecb6526bf29,learning.health,premium,1107,71.4,high,medium,8,namesilo,,,22/10/2026 09:40
 614bf646-7f80-4e13-a6fe-8e7fe7ce7c74,school.shopping,premium,414.2,414.2,high,medium,6,spaceship,,,22/10/2026 20:33
 fec1efed-713a-4ff2-bfaf-8396072413c9,teaching.porn,available,95.2,95.2,high,low,8,cloudflare,,,07/10/2026 07:33
-e29fcd6d-806c-4739-aafa-37822a286ab7,learning.store,premium,647.08,2587.7,high,medium,8,spaceship,,,22/10/2026 09:40
 242450aa-b4de-4d01-8fc3-ce7864aa1956,instruction.vegas,available,19.98,64.98,high,low,11,namecheap,,,22/10/2026 23:50
 db8e6d26-9cce-4dae-a3f6-3b6c99efa47a,training.zone,resell,,,high,medium,8,"Spaceship, Inc.",28/09/2025 15:15,28/09/2027 15:15,23/10/2026 07:17
 e52eae41-5fdc-4c28-9146-6ad8bccc70dc,teaching.health,premium,1035.2,62.3,high,low,8,spaceship,,,07/10/2026 07:33
-85e03f78-1ba2-4366-a0ef-9dc11e97bdca,learning.car,available,2519.99,3999.99,high,medium,8,godaddy,,,22/10/2026 09:40
 223f7ef8-3cfe-4cba-bee1-a076c6061080,university.gripe,available,5.57,5.57,high,medium,10,dynadot,,,22/10/2026 12:42
 dfb830ab-0ce2-403d-9482-bf05d7402337,training.gmbh,premium,207.2,207.2,high,medium,8,spaceship,,,23/10/2026 07:17
 b6ac2255-5bef-4437-a796-7159ff76066c,instruction.creditcard,available,5.57,133.52,high,low,11,dynadot,,,22/10/2026 23:50
 8487f527-dabe-4b33-82c1-b80bf27d516f,school.reise,available,77.83,77.83,high,medium,6,spaceship,,,22/10/2026 20:33
+b6470a7e-659e-4584-991d-d87af0e69b1a,learning.icu,premium,68.43,147.2,high,high,8,namesilo,,,24/10/2026 03:00
 8225ee8b-9bfb-419b-a1f5-901cbd9eb7e6,instruction.recipes,available,4.86,62.3,high,low,11,spaceship,,,22/10/2026 23:50
 e8abad0a-a793-4ac9-920d-34f172cd969f,instruction.global,premium,1200.5,51.95,high,low,11,unstoppable,,,22/10/2026 23:50
-8ec10ead-85e1-4816-bf47-6b42fff9b0e3,learning.contractors,available,40.98,44.48,high,medium,8,namecheap,,,22/10/2026 09:40
 4d02e140-4a9a-4d76-9c13-447d13a7ab97,training.rodeo,premium,1040,13,high,medium,8,namecheap,,,23/10/2026 07:17
 79de62be-8b96-450e-aa8a-e52881d66abb,training.agency,resell,,,high,medium,8,"Sav.com, LLC",13/01/2021 01:24,13/01/2027 01:24,23/10/2026 07:17
 988768f2-bb70-42d8-ac3d-eef766bbbcb5,study.phd,premium,671.92,671.92,high,high,5,spaceship,,,24/10/2026 00:42
+99e7aaf8-c62f-4afc-a48e-585019e1cce1,learning.shop,premium,3450,3450,high,high,8,namesilo,,,24/10/2026 03:00
 35fe43cc-7729-4750-a1c0-c3d81e960eb8,instruction.locker,available,5.68,31.25,high,low,11,spaceship,,,22/10/2026 23:50
 c970e5c4-255e-4ed3-b137-6e959b05b6a0,university.attorney,premium,512,512,high,medium,10,namesilo,,,22/10/2026 12:42
-a538e83d-cb21-412b-85a7-767053745533,learning.qpon,premium,3450,23.54,high,medium,8,namesilo,,,22/10/2026 09:40
 46f23e18-65aa-4263-99a9-cf4802b48f72,instruction.furniture,available,21.62,95.45,high,low,11,dynadot,,,22/10/2026 23:50
 fb28ae97-9f2b-4e9a-8801-1c682df380a7,teaching.dance,premium,38.94,38.94,high,low,8,namesilo,,,07/10/2026 07:33
 51882092-ac79-404d-b1ba-4253189c7746,university.computer,resell,,,high,medium,10,"Sav.com, LLC - 11",14/10/2026 15:15,14/10/2027 15:15,22/10/2026 12:42
@@ -751,29 +734,27 @@ fb28ae97-9f2b-4e9a-8801-1c682df380a7,teaching.dance,premium,38.94,38.94,high,low
 cd7bfc22-30de-4a5f-91e6-c2a6a6fc38db,teaching.industries,available,45.99,45.99,high,low,8,namesilo,,,07/10/2026 07:33
 4b55d37b-2121-4ce2-961a-5e3c715df946,teaching.llc,premium,517.7,517.7,high,low,8,spaceship,,,07/10/2026 07:33
 969d2337-f44f-4db5-bee6-f89863213e1c,training.reise,available,75.2,75.2,high,medium,8,cloudflare,,,23/10/2026 07:17
-8adbb45d-c207-4dcd-bbf5-930c9f84d8bd,learning.name,available,14.99,14.99,high,medium,8,godaddy,,,22/10/2026 09:40
+232af965-1316-42d7-86fe-028297b73fd8,learning.rip,available,18.83,18.83,high,high,8,spaceship,,,24/10/2026 03:00
 3cb614df-cb3a-4a6a-9cf0-d4cd0ea6f26a,training.bargains,premium,68.51,68.51,high,medium,8,spaceship,,,23/10/2026 07:17
 d2ef9d9b-af7d-4b47-927c-520f3cd3627a,training.estate,premium,118.8,118.8,high,medium,8,namesilo,,,23/10/2026 07:17
+07dcdf54-b1cf-420b-ad04-e7f961c1d205,learning.party,premium,,,high,high,8,,,,24/10/2026 03:00
 56808e3a-0260-4af3-b3d3-eac49f3f30d9,teaching.rent,available,17.99,59.99,high,low,8,namesilo,,,07/10/2026 07:33
 4b007a36-a116-48fb-95d8-a3472550d7e2,school.engineer,premium,1100,1100,high,medium,6,dynadot,,,22/10/2026 20:33
-a06c3329-990e-47e5-8c8b-63e96df4cc16,learning.luxury,available,26.97,26.97,high,medium,8,dynadot,,,22/10/2026 09:40
-955d0b51-03c6-4b8f-bdb1-64698e27da64,learning.luxe,premium,4400,16.27,high,medium,8,dynadot,,,22/10/2026 09:40
 48baf1cc-6359-4559-bec6-025cb035351b,school.business,premium,,,high,medium,6,,,,22/10/2026 20:33
 c5df92dc-9c66-4a61-8e48-f96684d2292b,school.jetzt,available,23.99,23.99,high,medium,6,namesilo,,,22/10/2026 20:33
 102fea19-021f-4e39-93dc-adf53a3158f7,teaching.properties,available,18.99,39.99,high,low,8,namesilo,,,07/10/2026 07:33
 e8266f85-3c2d-4d1a-afb3-4d18e2cf9da1,teaching.wtf,available,2.98,54.98,high,low,8,namecheap,,,07/10/2026 07:33
+564fa2de-26a1-463f-b608-0085d93dc993,learning.hair,available,1.99,17.29,high,high,8,namesilo,,,24/10/2026 03:00
 e9e6109c-3271-4178-adc9-b71288b0a6ef,instruction.channel,premium,30.22,30.22,high,low,11,spaceship,,,22/10/2026 23:50
 f90d79a9-cd2f-4803-8e2a-0edb3059ad6c,university.glass,premium,512,512,high,medium,10,namesilo,,,22/10/2026 12:42
-03094c73-514b-443c-b031-0c9fc383671e,learning.exchange,resell,82.5,,high,medium,8,Dynadot Inc,23/03/2026 08:21,23/03/2027 08:21,22/10/2026 09:40
-e796b84e-22d6-4c66-a9c0-6235513ccc6e,learning.host,premium,640,640,high,medium,8,namesilo,,,22/10/2026 09:40
 392e0535-6fd3-44ab-b0d0-1e148ec02f8a,school.republican,available,7.25,7.25,high,medium,6,namesilo,,,22/10/2026 20:33
 8ebe9084-990d-4367-8895-867cd3e3d6b4,instruction.me,resell,,,high,low,11,Dynadot Inc,15/05/2011 23:37,15/05/2027 23:37,22/10/2026 23:50
-8e34914b-8763-4886-a624-24ba2a096599,learning.ooo,premium,1278.72,23.59,high,medium,8,namesilo,,,22/10/2026 09:40
 dd4b887f-c0d2-47c5-9e5c-63ed3f3ef9ae,school.cloud,premium,13800,13800,high,medium,6,namesilo,,,22/10/2026 20:33
-faf7d9fe-4927-4153-ba6b-4412cf322635,learning.bayern,available,53.99,53.99,high,medium,8,godaddy,,,22/10/2026 09:40
+be27e537-60ae-49e5-ad52-da35fdbee9f5,learning.barcelona,available,25.04,25.04,high,high,8,spaceship,,,24/10/2026 03:00
 09d24ae8-3d85-42a6-8e77-ffb9a95758c1,instruction.storage,available,509.99,529.99,high,low,11,namesilo,,,22/10/2026 23:50
 0adf872f-71ad-43ee-ac64-b254cebc2a32,university.zip,premium,61.27,61.27,high,medium,10,spaceship,,,22/10/2026 12:42
 5f906cf7-a37f-49e3-9735-58af0b3dbc1f,instruction.sale,premium,118.8,118.8,high,low,11,namesilo,,,22/10/2026 23:50
+55b15fee-26d9-4d6f-b849-5a36650dbf37,learning.courses,premium,1035.2,1035.2,high,high,8,spaceship,,,24/10/2026 03:00
 2ec4049d-9105-4b82-a345-faf8adcc8655,school.photography,resell,,,high,medium,6,Dynadot Inc,17/06/2015 16:00,17/06/2027 16:00,22/10/2026 20:33
 9067b5c9-0180-449b-b8ff-5b0564934d48,training.schule,premium,118.8,118.8,high,medium,8,namesilo,,,23/10/2026 07:17
 1066b53f-7bff-4585-941c-633b8a8bd637,instruction.qpon,available,2.19,11.49,high,low,11,namesilo,,,22/10/2026 23:50
@@ -782,51 +763,49 @@ e1e02f72-8f7e-48f7-b804-0248a9ce3a1c,school.global,premium,5520,53.92,high,mediu
 58e59021-487f-429c-8a63-5d84a4c21235,training.art,premium,3105.2,72.65,high,medium,8,spaceship,,,23/10/2026 07:17
 bf1abf7d-8f92-4983-b739-fb5898e548d3,training.webcam,premium,640,77.35,high,medium,8,namesilo,,,23/10/2026 07:17
 403bc8d3-97cc-418b-ac7e-ae771c665373,training.rsvp,premium,516.67,516.67,high,medium,8,spaceship,,,23/10/2026 07:17
+b446b434-e8f4-43ed-9c6c-3257e9c6efad,learning.kaufen,available,23.94,23.94,high,high,8,spaceship,,,24/10/2026 03:00
 62cb850a-f9a3-47f9-b932-4a1228146f24,teaching.motorcycles,available,1.99,17.29,high,low,8,namesilo,,,07/10/2026 07:33
 a12a4ae8-9e3d-4e3f-897a-afebfa86f55c,training.pizza,available,5.98,93.98,high,medium,8,namecheap,,,23/10/2026 07:17
 f1a9def1-dae2-418a-8b39-8353fd66af4b,university.fun,premium,6900,6900,high,medium,10,namesilo,,,22/10/2026 12:42
 0fd83724-ef98-4b3a-bd8b-68486223dc71,instruction.us,resell,,,high,low,11,"GoDaddy.com, LLC",24/04/2002 14:18,23/04/2027 23:59,22/10/2026 23:50
+cec48964-489c-4041-8870-00e862cb6086,learning.mortgage,premium,520,520,high,high,8,namecheap,,,24/10/2026 03:00
 5d48e581-7b53-462f-ac8b-0cc7707d2692,instruction.pizza,available,50.2,50.2,high,low,11,cloudflare,,,22/10/2026 23:50
 ff42e3b6-4dfd-49a5-b088-d34262794d29,instruction.gratis,available,18.2,18.2,high,low,11,cloudflare,,,22/10/2026 23:50
-24135542-3286-4351-b1a0-fc7377c92b2b,learning.adult,available,51.95,98.53,high,medium,8,spaceship,,,22/10/2026 09:40
 6f5731d4-89ff-4c98-a803-158cf153459f,school.coach,premium,242,242,high,medium,6,namesilo,,,22/10/2026 20:33
+11d6dfa7-5143-437c-bc2b-2ed67c087082,learning.reviews,premium,68.51,68.51,high,high,8,spaceship,,,24/10/2026 03:00
 0be561ed-6d21-4279-854f-9d9a280089f9,instruction.place,available,22.49,22.49,high,low,11,namesilo,,,22/10/2026 23:50
+4c48b688-0165-401a-94f8-de6f16a3eaa6,learning.ong,premium,55,27.5,high,high,8,dynadot,,,24/10/2026 03:00
 15446983-196c-4ec9-8b8b-ae8ddd2ad0cc,training.villas,premium,118.8,118.8,high,medium,8,namesilo,,,23/10/2026 07:17
 9836f4d5-b544-42fe-bedc-eeef2beaf181,instruction.republican,available,7.25,7.25,high,low,11,namesilo,,,22/10/2026 23:50
 fe39d989-c6e6-4d49-910c-c7ae2fc3f0eb,teaching.mobile,premium,310.7,310.7,high,low,8,spaceship,,,07/10/2026 07:33
 6e7b0821-3ec5-4970-bafc-633c80f694a9,teaching.care,premium,99.5,128.7,high,low,8,unstoppable,,,07/10/2026 07:33
 aca17fa3-ba8b-4545-9dde-464cbfda3688,teaching.academy,resell,,,high,low,8,"Spaceship, Inc.",04/10/2024 17:00,04/10/2027 17:00,07/10/2026 07:33
 c2390e91-d3ca-4c96-a307-99cfb9902f37,teaching.now,resell,,,high,low,8,Dynadot Inc,26/11/2024 11:15,26/11/2027 11:15,07/10/2026 07:33
-4a390756-6a21-4e5d-991a-4e206d49966c,learning.management,resell,,,high,medium,8,"Spaceship, Inc.",30/03/2022 13:15,30/03/2027 13:15,22/10/2026 09:40
+b792e712-bec9-4567-ba3e-f2de28833702,learning.cab,available,12.87,29.35,high,high,8,porkbun,,,24/10/2026 03:00
 cacdf526-77b7-4454-a1fe-ec7ab30a173c,teaching.schule,available,22.97,22.97,high,low,8,spaceship,,,07/10/2026 07:33
 0b297b7b-ab34-4afe-89a0-0080ad009c9f,university.media,resell,,,high,medium,10,"Chengdu West Dimension Digital Technology Co., Ltd.",01/03/2021 03:49,01/03/2027 03:49,22/10/2026 12:42
 4ba44fc8-a13e-4ab9-a0b3-5c1a3db566f8,curriculum.investments,available,6.98,185.48,high,medium,10,namecheap,,,23/10/2026 01:49
-970eb8e7-36bf-424b-b3ac-389d44486232,learning.eco,premium,3622.7,59.71,high,medium,8,spaceship,,,22/10/2026 09:40
 4a727984-1e06-444b-b275-3b3ea69360bf,instruction.ltd,available,8.99,42.99,high,low,11,namesilo,,,22/10/2026 23:50
-b5567419-72b4-4f52-99ce-fefd832e4092,learning.wedding,available,26.08,26.08,high,medium,8,spaceship,,,22/10/2026 09:40
 9b4e30c1-5a5c-4ced-bcb9-344ad691ae0c,university.vin,available,8.99,59.99,high,medium,10,namesilo,,,22/10/2026 12:42
 a8294566-eeee-4ea9-9900-be537ace8334,instruction.insure,available,72.99,72.99,high,low,11,namesilo,,,22/10/2026 23:50
-e8885f7c-7460-4be0-abf1-32373071e5f0,learning.fund,resell,,,high,medium,8,"DNSPod, Inc.",10/02/2019 17:00,10/02/2036 17:00,22/10/2026 09:40
+3fff252d-939d-4363-8511-216675e40149,learning.blackfriday,available,103.7,103.7,high,high,8,spaceship,,,24/10/2026 03:00
 dad1a0a5-43b6-4136-ab5e-4e9682aa1ba2,school.lifestyle,premium,362.45,517.7,high,medium,6,spaceship,,,22/10/2026 20:33
 1ede7577-9794-4a59-beeb-de1b249a8c8c,instruction.stream,premium,448,53.92,high,low,11,namesilo,,,22/10/2026 23:50
+a20c3e3b-9280-4c51-bb1f-9f89222cb4a9,learning.moe,available,13.99,13.99,high,high,8,namesilo,,,24/10/2026 03:00
 fee896b7-5297-47f2-94d0-c1496f95de6e,instruction.fm,available,88.99,88.99,high,low,11,namesilo,,,22/10/2026 23:50
 7e1f9b7a-0681-4e24-8f87-ff5b5abb7ede,instruction.financial,available,23.99,58.99,high,low,11,namesilo,,,22/10/2026 23:50
-f785ba64-7870-4438-abbd-3b1cc43d9031,learning.page,premium,499.2,516.67,high,medium,8,unstoppable,,,22/10/2026 09:40
 85a5e27b-a271-4149-8a63-67c46c31c460,university.soy,premium,,,high,medium,10,,,,22/10/2026 12:42
-b6470a7e-659e-4584-991d-d87af0e69b1a,learning.icu,premium,68.43,147.2,high,medium,8,namesilo,,,22/10/2026 09:40
 73e8d3ed-4ffe-4c8f-9181-80855623b0d2,instruction.exposed,available,22.49,22.49,high,low,11,namesilo,,,22/10/2026 23:50
 ede9130b-c798-4daf-90fc-ab5ec61bb929,instruction.exchange,available,12.99,38.99,high,low,11,namesilo,,,22/10/2026 23:50
 f970a750-d044-4e0f-8463-7df988a81a31,curriculum.fitness,available,32.2,32.2,high,medium,10,cloudflare,,,23/10/2026 01:49
-8e9c86b5-3ff0-4f01-ae05-8d69ce01017e,learning.online,premium,25000.2,25875.2,high,medium,8,unstoppable,,,22/10/2026 09:40
 853cc216-0c4e-4d6e-a0fa-37cb7c2888b2,curriculum.us,resell,,,high,medium,10,"Name.com, Inc.",22/09/2016 18:01,21/09/2027 23:59,23/10/2026 01:49
-f0e639dc-8f4c-4469-a73e-3043a7a0b9dc,learning.homes,resell,,,high,medium,8,"Spaceship, Inc.",17/01/2026 15:35,17/01/2027 23:59,22/10/2026 09:40
-99e7aaf8-c62f-4afc-a48e-585019e1cce1,learning.shop,premium,2587.7,2587.7,high,medium,8,spaceship,,,22/10/2026 09:40
+6da66861-da5a-4aa9-ad51-687ecebc34a2,learning.gives,available,14.99,23.99,high,high,8,namesilo,,,24/10/2026 03:00
 12eda4ff-8f19-4e55-96e7-d18aac545e3f,university.cricket,premium,13800,116,high,medium,10,namesilo,,,22/10/2026 12:42
+1b441b15-9194-411d-a2bc-b04b4d195a5a,learning.casino,available,6.41,129.58,high,high,8,spaceship,,,24/10/2026 03:00
 edb11fbb-6b85-418d-9465-461621226572,training.page,premium,638.72,638.72,high,medium,8,namesilo,,,23/10/2026 07:17
 bc35fc02-2255-40a0-a4b5-a267d9acb88e,university.diet,available,108.98,159.98,high,medium,10,namecheap,,,22/10/2026 12:42
 233dd279-d3f9-4875-8ecf-0899e7b5e460,school.cricket,premium,13800,116,high,medium,6,namesilo,,,22/10/2026 20:33
 e61edecd-9b3f-4a7e-aa64-63cdda4634da,training.foundation,premium,102.67,102.67,high,medium,8,spaceship,,,23/10/2026 07:17
-978bc3a6-91d0-41bc-978f-3531624a6ff0,learning.makeup,resell,,,high,medium,8,"Spaceship, Inc.",06/03/2025 16:38,06/03/2027 23:59,22/10/2026 09:40
 2f2f9aee-b2ab-4238-92fa-90302d1dfeb1,instruction.foo,premium,61.27,61.27,high,low,11,spaceship,,,22/10/2026 23:50
 dada8b91-e6dd-4216-a9d9-707bac942a99,university.shop,premium,517.7,517.7,high,medium,10,spaceship,,,22/10/2026 12:42
 89c81165-9fa8-4ff6-972c-897ba4bf9beb,training.fast,premium,640,640,high,medium,8,namesilo,,,23/10/2026 07:17
@@ -844,19 +823,20 @@ e922dbd1-0731-487c-8b3d-5e35fa9c86c7,school.ong,premium,546.35,273.44,high,mediu
 2d328736-bedc-4f84-90dd-8f235be44c0a,university.protection,available,2140.22,2140.22,high,medium,10,dynadot,,,22/10/2026 12:42
 0830d1dc-deec-478e-8910-631094c16e54,teaching.apartments,available,57.99,57.99,high,low,8,namesilo,,,07/10/2026 07:33
 90a509b3-7da0-4d1e-860f-55f38eabb4c7,teaching.bz,available,18.88,18.88,high,low,8,dynadot,,,07/10/2026 07:33
-564fa2de-26a1-463f-b608-0085d93dc993,learning.hair,available,1.24,13.97,high,medium,8,spaceship,,,22/10/2026 09:40
 31b400c1-e175-46f4-bebf-b7c82aa49539,university.film,premium,130,130,high,medium,10,namecheap,,,22/10/2026 12:42
 ff69fff9-5b0c-41db-826a-a1bec5d4ea1d,instruction.cooking,available,33.98,43.98,high,low,11,namecheap,,,22/10/2026 23:50
 8e1a9581-e08d-45f5-a0f7-73492fa617a6,teaching.bot,premium,640,640,high,low,8,namesilo,,,07/10/2026 07:33
 0f346079-42a0-451f-ac8f-76523730d030,training.giving,premium,68.51,68.51,high,medium,8,spaceship,,,23/10/2026 07:17
 be4299dd-4661-4bc7-943a-29b067965e3c,curriculum.management,available,20.2,20.2,high,medium,10,cloudflare,,,23/10/2026 01:49
+33114c4a-cfd9-4d66-95fb-87c2a74d6d74,learning.lawyer,premium,4140,4140,high,high,8,namesilo,,,24/10/2026 03:00
 318f972e-36a7-45f8-8eb0-9ee47ce59125,university.deal,premium,640,640,high,medium,10,namesilo,,,22/10/2026 12:42
 67acbbb2-0283-42cd-be48-1a0861ccd78f,school.sale,premium,102.67,102.67,high,medium,6,spaceship,,,22/10/2026 20:33
 bf352528-787f-4ad6-969b-fb17f4b074c4,school.free,premium,500.5,640,high,medium,6,unstoppable,,,22/10/2026 20:33
 94bea0c4-a94d-42ee-afce-c3aa40c70872,teaching.camp,premium,207.2,207.2,high,low,8,spaceship,,,07/10/2026 07:33
 16be2521-a622-4a5a-80c7-e759824e25ee,teaching.restaurant,available,10.55,51.95,high,low,8,spaceship,,,07/10/2026 07:33
+0bc64ba7-0079-4517-8c50-a1996bb3b388,learning.bz,available,21.98,26.98,high,high,8,namecheap,,,24/10/2026 03:00
 aa1ea13b-ff9e-4f32-bdf0-35c101dc7200,teaching.yoga,available,32.49,32.49,high,low,8,namesilo,,,07/10/2026 07:33
-232af965-1316-42d7-86fe-028297b73fd8,learning.rip,available,23.49,23.49,high,medium,8,namesilo,,,22/10/2026 09:40
+615ad345-6fa5-481c-9d01-3ac5965eb55e,learning.repair,available,12.99,36.99,high,high,8,namesilo,,,24/10/2026 03:00
 1178161a-7b15-4ab3-9d32-29f97faf59cf,teaching.mov,premium,129.2,133.72,high,low,8,unstoppable,,,07/10/2026 07:33
 6c8dee8d-8404-4918-b8f3-14b3dd381eac,university.host,premium,1107,1107,high,medium,10,namesilo,,,22/10/2026 12:42
 4485aea8-5eb5-45a9-b954-16d182a272ca,training.supply,premium,128.7,128.7,high,medium,8,namecheap,,,23/10/2026 07:17
@@ -871,14 +851,12 @@ b8fa81db-73c8-4968-8d0c-985a1962ac12,curriculum.ski,available,20.9,51.95,high,me
 d3ba9497-db0b-4c41-863a-780e8bd584a4,school.cam,premium,1552.7,14.69,high,medium,6,spaceship,,,22/10/2026 20:33
 17bd5935-f072-4fa9-abe2-0649f166d2be,curriculum.events,available,35.2,35.2,high,medium,10,cloudflare,,,23/10/2026 01:49
 b40bf2f8-2df8-470a-9fce-3e2893a9105d,instruction.adult,available,53.72,101.87,high,low,11,dynadot,,,22/10/2026 23:50
-b446b434-e8f4-43ed-9c6c-3257e9c6efad,learning.kaufen,available,23.2,23.2,high,medium,8,cloudflare,,,22/10/2026 09:40
+7477ded3-e636-4816-b6b3-8da76bc88dd5,learning.shopping,available,23.2,23.2,high,high,8,cloudflare,,,24/10/2026 03:00
 487f9e16-3a55-4270-b877-b09dd51f2b39,instruction.ventures,available,5.38,47.81,high,low,11,spaceship,,,22/10/2026 23:50
-4cb119fb-c8e5-46d7-9ab5-80b89e4eff6b,learning.gg,resell,,,high,medium,8,West263 International Limited (http://www.363.hk),,,22/10/2026 09:40
 80c16a83-5dd1-43dd-8f63-17aea3d0fe18,teaching.show,available,18,44.49,high,low,8,unstoppable,,,07/10/2026 07:33
 3a3ac55b-ad14-49e3-82d6-ff0c01979c0d,instruction.town,available,8.5,29.18,high,low,11,unstoppable,,,22/10/2026 23:50
 8ab70df2-105f-404a-a233-7c76805b1ea2,instruction.maison,available,60.98,69.98,high,low,11,namecheap,,,22/10/2026 23:50
 af7b8ea4-7299-4413-86b8-9dd0c3202be5,university.studio,premium,103.7,207.2,high,medium,10,spaceship,,,22/10/2026 12:42
-be27e537-60ae-49e5-ad52-da35fdbee9f5,learning.barcelona,available,25.04,25.04,high,medium,8,spaceship,,,22/10/2026 09:40
 75799170-e0b2-4baf-ac42-c050ab345ce1,instruction.diamonds,available,43.67,43.67,high,low,11,spaceship,,,22/10/2026 23:50
 9c6ae181-4046-4741-9df3-51ce79b9745f,curriculum.tickets,available,393.98,608.98,high,medium,10,namecheap,,,23/10/2026 01:49
 24e37f63-f867-4be2-bbcf-5d07ec8179b2,school.zip,premium,648.7,648.7,high,medium,6,namecheap,,,22/10/2026 20:33
@@ -886,12 +864,13 @@ be27e537-60ae-49e5-ad52-da35fdbee9f5,learning.barcelona,available,25.04,25.04,hi
 f4e1c6be-74b1-4477-bc5f-abc20d8e266c,teaching.my,premium,91.96,91.96,high,low,8,namesilo,,,07/10/2026 07:33
 cbf42e9f-d058-4c7e-bb29-e36261337f41,training.navy,available,32.2,32.2,high,medium,8,cloudflare,,,23/10/2026 07:17
 1f20125e-43ae-46c4-a0d0-36c18ca2da03,instruction.audio,available,100.2,100.2,high,low,11,cloudflare,,,22/10/2026 23:50
-55b15fee-26d9-4d6f-b849-5a36650dbf37,learning.courses,premium,1035.2,1035.2,high,medium,8,spaceship,,,22/10/2026 09:40
+eaa7c4f3-2b5e-411f-9219-c5707ca9792a,learning.jewelry,available,64.99,64.99,high,high,8,namesilo,,,24/10/2026 03:00
+ac83de3c-2e8e-4c33-84a5-449d4e4cb1c0,learning.movie,available,36.43,279.65,high,high,8,spaceship,,,24/10/2026 03:00
 0b96df11-d99e-42e1-9121-1a0dcdddf6c1,training.lawyer,premium,3105.2,3105.2,high,medium,8,spaceship,,,23/10/2026 07:17
 d461adfa-98d3-4a73-8b25-31f36e44ce01,teaching.horse,available,26.08,26.08,high,low,8,spaceship,,,07/10/2026 07:33
 8ccc2ba8-f7ed-4880-ba4c-e2f8d838ed17,instruction.sydney,available,44.98,54.98,high,low,11,namecheap,,,22/10/2026 23:50
 2bc240ca-7cdf-4eb2-a2ae-4d69c07601c1,training.protection,available,1999.99,2049.99,high,medium,8,namesilo,,,23/10/2026 07:17
-b792e712-bec9-4567-ba3e-f2de28833702,learning.cab,available,32.99,32.99,high,medium,8,namesilo,,,22/10/2026 09:40
+499d5a19-e3a3-4eec-931b-459c5ece8425,learning.maison,available,45.74,45.74,high,high,8,spaceship,,,24/10/2026 03:00
 a198e065-618f-4c38-9809-52064732a912,university.holiday,available,64.99,64.99,high,medium,10,namesilo,,,22/10/2026 12:42
 757cfb00-4d19-4478-99c3-2546419c71f5,university.gmbh,available,59.99,59.99,high,medium,10,namesilo,,,22/10/2026 12:42
 2122c62a-bc7b-4c3a-8aa7-12c635a30928,curriculum.tax,available,13.5,67.49,high,medium,10,unstoppable,,,23/10/2026 01:49
@@ -904,17 +883,14 @@ cd160ee3-a747-457f-a76b-77850533c67d,instruction.bargains,available,11.96,24.83,
 5bd7aa33-caa0-4904-96dc-567b26b73961,instruction.miami,available,18.88,18.88,high,low,11,spaceship,,,22/10/2026 23:50
 e763c0b3-c678-43d9-b256-c2a270f116ff,instruction.men,premium,362.45,51.95,high,low,11,spaceship,,,22/10/2026 23:50
 090c2e53-d052-44fd-8564-b7944718673a,university.dad,premium,516.67,516.67,high,medium,10,spaceship,,,22/10/2026 12:42
-4fe27164-0aae-4941-8a68-f090176002c3,learning.news,resell,,,high,medium,8,DomainTact LLC,11/01/2026 15:15,11/01/2027 15:15,22/10/2026 09:40
 29ba11dd-ca4b-4a28-b232-64fa0f61004e,curriculum.hockey,available,61,46.2,high,medium,10,unstoppable,,,23/10/2026 01:49
-a20c3e3b-9280-4c51-bb1f-9f89222cb4a9,learning.moe,available,24.99,24.99,high,medium,8,godaddy,,,22/10/2026 09:40
-cec48964-489c-4041-8870-00e862cb6086,learning.mortgage,premium,512,512,high,medium,8,namesilo,,,22/10/2026 09:40
+272a5f3d-1e54-4cbb-a1be-d1735877b725,learning.pink,available,14.49,25.99,high,high,8,namesilo,,,24/10/2026 03:00
 18a166c8-4592-450c-b68a-990b0d33a4f9,school.dog,premium,218.8,437.19,high,medium,6,porkbun,,,22/10/2026 20:33
 5ba51652-b91a-4648-a5a2-0e6d144dd388,teaching.photos,available,23.2,23.2,high,low,8,cloudflare,,,07/10/2026 07:33
 39f7ef15-202e-47a0-87b4-1cd5494047e8,study.soy,premium,159.2,174.9,high,high,5,unstoppable,,,24/10/2026 00:42
 35a7761e-cb36-4f0d-ad4b-57f19a8949c7,study.camera,available,45.2,45.2,high,high,5,cloudflare,,,24/10/2026 00:42
 036cc37a-ae80-41ab-9645-988f46c9197e,curriculum.theatre,available,509.99,529.99,high,medium,10,namesilo,,,23/10/2026 01:49
 a011313c-ba1b-48c3-b9cc-b09d0b1cf092,teaching.kim,premium,2070.2,2070.2,high,low,8,spaceship,,,07/10/2026 07:33
-4c48b688-0165-401a-94f8-de6f16a3eaa6,learning.ong,premium,55.11,27.82,high,medium,8,porkbun,,,22/10/2026 09:40
 2739937b-21bf-4b03-8184-e499b092526f,university.clinic,premium,207.2,207.2,high,medium,10,spaceship,,,22/10/2026 12:42
 b376ce1c-c8d2-4bcb-a216-9c182de5cce7,instruction.build,premium,1552.7,1552.7,high,low,11,spaceship,,,22/10/2026 23:50
 6b415e53-c13f-4da6-b2ff-61671e39909f,curriculum.creditcard,available,144.99,144.99,high,medium,10,namesilo,,,23/10/2026 01:49
@@ -923,13 +899,12 @@ bcd0ba33-e3ed-4d11-8df9-5ac121bb047c,study.onl,premium,162.5,325,high,high,5,nam
 8d3577f5-45f7-4ca0-84f3-2f8ae00dd6b7,school.events,resell,,,high,medium,6,Dynadot Inc,18/04/2018 08:29,18/04/2027 08:29,22/10/2026 20:33
 03b97024-0f7b-45d0-8a43-2ff37dec110c,instruction.rsvp,premium,30.22,30.22,high,low,11,spaceship,,,22/10/2026 23:50
 9fdad941-70de-49fa-a05a-ce2ff141ccc3,curriculum.bargains,available,13.14,23.94,high,medium,10,spaceship,,,23/10/2026 01:49
+5ad76a7d-2538-49ee-9f6b-d1d435a8e61e,learning.pictures,available,12.2,12.2,high,high,8,cloudflare,,,24/10/2026 03:00
 0fab12be-ff44-4860-b60c-9f1b1f9182b5,curriculum.broker,available,13.5,29.18,high,medium,10,unstoppable,,,23/10/2026 01:49
 96d7ebb7-dd56-4e0a-a940-2e0c87807013,training.support,resell,,,high,medium,8,"Spaceship, Inc.",15/07/2015 20:10,15/07/2027 20:10,23/10/2026 07:17
 b9a4550d-75c1-4a95-b975-90bc705648b7,training.cafe,resell,,,high,medium,8,"DNSPod, Inc.",24/06/2023 15:15,24/06/2027 15:15,23/10/2026 07:17
 ca64fee2-a66d-42c4-9193-cd5d9031ba27,teaching.reisen,available,3.99,20.99,high,low,8,namesilo,,,07/10/2026 07:33
-1b441b15-9194-411d-a2bc-b04b4d195a5a,learning.casino,available,6.41,129.58,high,medium,8,spaceship,,,22/10/2026 09:40
 6f3c00ee-0209-4caf-8911-a0a814dd1f6b,curriculum.adult,available,69.98,166.98,high,medium,10,namecheap,,,23/10/2026 01:49
-3fff252d-939d-4363-8511-216675e40149,learning.blackfriday,available,128.98,134.98,high,medium,8,namecheap,,,22/10/2026 09:40
 a986a311-38d6-48e8-bc3c-e278a126289c,teaching.love,premium,192.5,275,high,low,8,dynadot,,,07/10/2026 07:33
 c4a78252-078b-436f-a836-fa6c9f1ce593,university.democrat,available,5.98,8.48,high,medium,10,namecheap,,,22/10/2026 12:42
 f43c12d4-c04a-4eb7-96b6-ae3df69d0c49,teaching.dental,available,60.2,60.2,high,low,8,cloudflare,,,07/10/2026 07:33
@@ -942,6 +917,8 @@ abc2c9e4-26ab-44ea-a18c-b74c44f620cd,school.reisen,premium,78.54,78.54,high,medi
 8dde19fd-f562-4b7e-862c-eb38fb9252a2,university.financial,premium,414.2,414.2,high,medium,10,spaceship,,,22/10/2026 12:42
 8531f47e-ae33-40a1-b619-01152a21e84b,teaching.democrat,available,5.38,26.08,high,low,8,spaceship,,,07/10/2026 07:33
 de9b73be-45aa-4d01-a565-041b19781806,school.plumbing,available,85.48,99.98,high,medium,6,namecheap,,,22/10/2026 20:33
+7ecad1eb-963a-4a35-97d3-47d2c37e9e03,learning.clinic,premium,78.54,78.54,high,high,8,namesilo,,,24/10/2026 03:00
+7d1059fa-c25e-4d76-8185-3ec2e5722867,learning.limo,available,54.99,54.99,high,high,8,namesilo,,,24/10/2026 03:00
 81d6b167-0bb1-4540-8cdf-fcee3d367c69,teacher.courses,premium,640,640,high,medium,7,namesilo,,,23/10/2026 06:40
 8b567ed6-a6a2-4925-9cc6-443585a17ff5,school.top,premium,532.99,532.99,high,medium,6,namesilo,,,22/10/2026 20:33
 d5ed00fa-929c-4a39-8223-333314aac107,school.click,resell,,,high,medium,6,"Spaceship, Inc.",15/05/2025 17:26,15/05/2027 17:26,22/10/2026 20:33
@@ -950,7 +927,6 @@ d5ed00fa-929c-4a39-8223-333314aac107,school.click,resell,,,high,medium,6,"Spaces
 194733bb-1828-47a9-b61d-b1ddb53e5979,teaching.autos,available,1.99,17.29,high,low,8,namesilo,,,07/10/2026 07:33
 5cbde832-7127-4967-bf0f-f5879b843361,curriculum.cloud,resell,,,high,medium,10,"Dynadot, LLC",29/05/2018 10:07,29/05/2027 10:07,23/10/2026 01:49
 bfbc72ee-1394-4a77-b481-50602fc8fbb2,training.associates,premium,78.54,78.54,high,medium,8,namesilo,,,23/10/2026 07:17
-6da66861-da5a-4aa9-ad51-687ecebc34a2,learning.gives,available,14.99,23.99,high,medium,8,namesilo,,,22/10/2026 09:40
 2eee36ad-4f36-4927-a08b-743b62220644,teaching.fun,premium,647.08,2587.7,high,low,8,spaceship,,,07/10/2026 07:33
 e1a27757-f969-4aaa-8fd5-570f68218e3b,curriculum.software,available,10.55,33.32,high,medium,10,spaceship,,,23/10/2026 01:49
 71c3bb63-f8cb-4db4-b4bd-57f25b68d7e9,teaching.pics,available,25.2,20.2,high,low,8,cloudflare,,,07/10/2026 07:33
@@ -966,6 +942,8 @@ d57ea295-c808-41ef-9261-36cb75b95deb,university.support,premium,118.8,118.8,high
 4c5251e7-08bf-4a16-827e-761a01fedaca,curriculum.host,available,4.99,109.99,high,medium,10,namesilo,,,23/10/2026 01:49
 e047aade-4566-4c27-8332-5c50cd7a4e14,university.casa,available,2.19,12.99,high,medium,10,namesilo,,,22/10/2026 12:42
 86aa8a21-40c9-4c5c-a854-0900f791d19b,university.vodka,available,26.08,26.08,high,medium,10,spaceship,,,22/10/2026 12:42
+c7a22347-7e3c-4263-8963-92726896e82d,learning.viajes,available,99.99,99.99,high,high,8,namesilo,,,24/10/2026 03:00
+3c317334-e86a-4377-a2ac-5fe8d45dcdd5,learning.investments,premium,414.2,414.2,high,high,8,spaceship,,,24/10/2026 03:00
 36bf2e7a-7783-4274-af44-f649405d16bc,university.phd,premium,671.92,671.92,high,medium,10,spaceship,,,22/10/2026 12:42
 c469820e-00e5-4618-a355-d2a0a0d61d19,instruction.courses,available,1.98,50.98,high,low,11,namecheap,,,22/10/2026 23:50
 1af391c6-c101-4fad-a320-a638974213e1,curriculum.build,premium,1552.7,1552.7,high,medium,10,spaceship,,,23/10/2026 01:49
@@ -974,17 +952,19 @@ d52c6516-579a-4930-88bd-e951af66a0a9,teaching.buzz,premium,116,53.92,high,low,8,
 04b397d0-ce25-4748-8cdd-7edc501f18c2,study.kids,premium,384,21.24,high,high,5,namesilo,,,24/10/2026 00:42
 e3e7e068-9fd9-4f8d-965e-3da11b4c5a3d,school.email,resell,,,high,medium,6,Dynadot Inc,08/07/2015 16:00,08/07/2027 16:00,22/10/2026 20:33
 c5c1a9c6-b163-4317-b085-91392d3936e4,curriculum.men,premium,362.45,51.95,high,medium,10,spaceship,,,23/10/2026 01:49
-615ad345-6fa5-481c-9d01-3ac5965eb55e,learning.repair,available,12.99,36.99,high,medium,8,namesilo,,,22/10/2026 09:40
 c2680fbf-5860-4de4-a676-06589e847c94,teacher.academy,resell,,,high,medium,7,"TurnCommerce, Inc. DBA NameBright.com",03/07/2025 15:15,03/07/2027 15:15,23/10/2026 06:40
 7917b31c-70ea-4ef0-be71-518d00a0bbfb,school.doctor,available,5.38,93.35,high,medium,6,spaceship,,,22/10/2026 20:33
 32c135d3-cda3-4ed8-bbfd-87be9f8252f5,instruction.rest,available,1.25,26,high,low,11,spaceship,,,22/10/2026 23:50
 c555ad82-0ae4-48ae-9091-7dad3911b953,study.realty,available,109.99,299,high,high,5,namesilo,,,24/10/2026 00:42
 869b2fa8-d9f5-4377-b54c-baffa72c431b,teaching.xyz,resell,,,high,low,8,"GoDaddy.com, LLC",02/06/2014 16:15,02/06/2027 23:59,07/10/2026 07:33
+4053eade-c6ce-484d-a16a-7ccf1b991f0c,learning.xyz,premium,,,high,high,8,Porkbun LLC,06/01/2026 14:56,06/01/2028 23:59,24/10/2026 03:00
 09f56cfc-3cdc-473d-9da9-eb982e3d729e,school.video,premium,1293.95,2587.7,high,medium,6,spaceship,,,22/10/2026 20:33
 34d3d98a-2f69-472c-afe8-b3f6397a1662,teaching.diy,available,4.35,31.25,high,low,8,spaceship,,,07/10/2026 07:33
 4181f6ff-ff91-486d-86dd-5bb9cb7ec20c,study.video,premium,512,512,high,high,5,namesilo,,,24/10/2026 00:42
 9c7e9de3-7050-498f-abf4-9b47a869e717,teaching.realty,available,99.8,456.98,high,low,8,namecheap,,,07/10/2026 07:33
+7f397251-0fe9-41c8-a5e0-2e77f4fd869e,learning.cricket,premium,448,53.92,high,high,8,namesilo,,,24/10/2026 03:00
 8eff60d2-1802-41b5-a73d-4c1f5d681113,teaching.nyc,premium,55,26.97,high,low,8,dynadot,,,07/10/2026 07:33
+f355b221-eaee-4c25-8cec-ba04848c0f1b,learning.ski,premium,135.2,135.2,high,high,8,namecheap,,,24/10/2026 03:00
 71a2f628-8ddf-4ba8-bee1-d820fe6e79b6,school.direct,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",24/05/2026 15:15,24/05/2027 15:15,22/10/2026 20:33
 0ebabc87-4ffa-442d-8b79-263ad60d066f,teaching.makeup,available,1.24,13.97,high,low,8,spaceship,,,07/10/2026 07:33
 ebdcf1f6-bbed-4efe-93e0-55661d67cde9,training.casino,available,6.41,129.58,high,medium,8,spaceship,,,23/10/2026 07:17
@@ -994,8 +974,28 @@ a4de2def-4cc0-4c17-bdec-4a00e51a1cfc,university.ooo,premium,292560,318.72,high,m
 f3e09c5a-14fb-4476-801d-780cfbec9205,training.healthcare,available,70.58,70.58,high,medium,8,spaceship,,,23/10/2026 07:17
 4c593d9a-6e89-4377-bbcb-c7c6aac5bee3,school.pet,premium,1107,1107,high,medium,6,namesilo,,,22/10/2026 20:33
 824ee1a9-1849-4898-9502-10ff460d8f11,curriculum.promo,available,10.55,19.87,high,medium,10,spaceship,,,23/10/2026 01:49
+c0551a2a-1b8b-44b4-a389-348400b54529,learning.meme,premium,195,195,high,high,8,namecheap,,,24/10/2026 03:00
 02a7f348-4d19-482d-98d8-82fb42382c3e,curriculum.shoes,available,31.25,51.95,high,medium,10,spaceship,,,23/10/2026 01:49
-33114c4a-cfd9-4d66-95fb-87c2a74d6d74,learning.lawyer,premium,4140,4140,high,medium,8,namesilo,,,22/10/2026 09:40
-7477ded3-e636-4816-b6b3-8da76bc88dd5,learning.shopping,available,45.99,45.99,high,medium,8,godaddy,,,22/10/2026 09:40
 9abe0911-d3d6-4c6d-a3f6-58ed8e96ee43,curriculum.realty,available,96.52,299.82,high,medium,10,dynadot,,,23/10/2026 01:49
 666e79be-34c7-4c0a-9a50-31f9b002542f,teaching.luxe,available,19.49,19.49,high,low,8,namesilo,,,07/10/2026 07:33
+190fd279-a7e1-4bdc-bb9f-3b5a5f830ff8,university.vegas,premium,242,119.94,high,medium,10,namesilo,,,22/10/2026 12:42
+a7dbe0ce-a014-4d7c-b4d7-c1514b5331a8,university.villas,premium,242,242,high,medium,10,namesilo,,,22/10/2026 12:42
+34fe8b90-ef0b-4f16-88d2-2375dee5c041,instruction.support,available,8.99,26.99,high,low,11,namesilo,,,22/10/2026 23:50
+54328375-50b1-4285-b9d3-ff0fa095ec29,learning.video,premium,512,512,high,high,8,namesilo,,,24/10/2026 03:00
+a02a66e7-8f9d-4243-aec4-c19aa4716e39,training.watch,premium,512,512,high,medium,8,namesilo,,,23/10/2026 07:17
+8d181b30-b704-4490-b9b0-1f0412c189db,training.miami,premium,2660,21.24,high,medium,8,namesilo,,,23/10/2026 07:17
+89eeca53-716a-497f-a7b1-f82f20c13a8a,school.digital,resell,,,high,medium,6,"Spaceship, Inc.",25/12/2021 13:15,25/12/2027 13:15,22/10/2026 20:33
+cbd2b979-ee28-46f6-a1c6-7c1b28aac65d,learning.gripe,available,6.99,6.99,high,high,8,namesilo,,,24/10/2026 03:00
+ac6051c7-07be-430f-9aa4-a8560b8ca235,university.fast,premium,517.7,517.7,high,medium,10,spaceship,,,22/10/2026 12:42
+6649c27d-a5ec-49b2-8bdd-6dcccebc26e8,training.inc,premium,1705,2060.21,high,medium,8,dynadot,,,23/10/2026 07:17
+f65bd397-b0ab-4d0a-ba2d-e12995ab5b8f,instruction.equipment,available,34.99,34.99,high,low,11,namesilo,,,22/10/2026 23:50
+1ef9a7ee-6145-4df9-bd30-90dcbeea59d3,instruction.cleaning,available,60.23,60.23,high,low,11,spaceship,,,22/10/2026 23:50
+a53642d3-526e-439a-b42e-45442b42e657,training.run,resell,,,high,medium,8,"Wild West Domains, LLC",19/08/2015 16:00,19/08/2027 16:00,23/10/2026 07:17
+62f7c42e-aee3-4b77-9c66-a9d64b350ffb,instruction.tax,available,52.2,52.2,high,low,11,cloudflare,,,22/10/2026 23:50
+b1b049a7-a8c9-4207-8a22-760b8bddc819,instruction.supplies,available,19.87,19.87,high,low,11,spaceship,,,22/10/2026 23:50
+929831ec-fb3f-42c0-84b9-9bd6698cb1d1,training.gift,available,16.91,16.91,high,medium,8,dynadot,,,23/10/2026 07:17
+4d1956ce-6d8b-4c84-b922-1e2afff90382,instruction.news,available,14.49,32.49,high,low,11,namesilo,,,22/10/2026 23:50
+66325520-5e18-4397-9c8a-25063272bbe0,teaching.skin,available,1.99,17.29,high,low,8,namesilo,,,07/10/2026 07:33
+1748ab0b-d7ca-4b2a-9c22-9de26c96bde0,training.new,available,412.2,412.2,high,medium,8,spaceship,,,23/10/2026 07:17
+e0749165-6c01-45c3-aa85-810f0e4fb7b0,instruction.market,available,34.2,34.2,high,low,11,cloudflare,,,22/10/2026 23:50
+3c09b7bf-df5f-4777-8e80-74846b39cafb,training.ryukyu,available,17.98,22.98,high,medium,8,namecheap,,,23/10/2026 07:17
