@@ -1,10 +1,10 @@
-# One-Word Education Domain Names (155,043)
+# One-Word Education Domain Names (155,110)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-155%2C043%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-155%2C110%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection contains one-word domain names tagged under the education category, spanning 506 different domain extensions. The median asking price across this set is $638. Updated daily to reflect current listings and pricing across the full range of one-word education domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **155,043 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **155,110 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 155,043 domains · **Median ask:** $281.77 · **High-demand under $2,500:** 3,129
+**Public extract:** 1,000 rows · **Live catalog:** 155,110 domains · **Median ask:** $277.82 · **High-demand under $2,500:** 3,136
 
-**Last updated:** 2026-10-29
+**Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/sector/education`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| study.builders     | available | $28.15    | $28.15        | high           | medium | 5      | spaceship                                           |
-| education.tax      | resell    | $14.99    | —             | high           | medium | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| study.degree       | premium   | $62.30    | $62.30        | high           | medium | 5      | spaceship                                           |
-| study.creditcard   | available | $129.20   | $129.20       | high           | medium | 5      | spaceship                                           |
-| school.ai          | resell    | —         | —             | high           | medium | 6      | Name.com, Inc.                                      |
-| study.engineer     | premium   | $71.40    | $71.40        | high           | medium | 5      | namesilo                                            |
-| study.restaurant   | available | $50.20    | $50.20        | high           | medium | 5      | cloudflare                                          |
-| school.blue        | resell    | —         | —             | high           | medium | 6      | DNSPod, Inc.                                        |
-| study.free         | premium   | $517.70   | $517.70       | high           | medium | 5      | spaceship                                           |
-| study.schule       | available | $22.20    | $22.20        | high           | medium | 5      | cloudflare                                          |
-| school.ca          | resell    | —         | —             | high           | medium | 6      | CanSpace Solutions Inc.                             |
-| study.nyc          | premium   | $650      | $32.50        | high           | medium | 5      | namecheap                                           |
-| school.accountants | available | $90.20    | $90.20        | high           | medium | 6      | cloudflare                                          |
-| school.camp        | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                         |
-| study.villas       | premium   | $414.20   | $414.20       | high           | medium | 5      | spaceship                                           |
-| school.adult       | available | $95.20    | $95.20        | high           | medium | 6      | cloudflare                                          |
-| school.city        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                                     |
-| school.accountant  | premium   | $448      | $53.92        | high           | medium | 6      | namesilo                                            |
-| school.airforce    | available | $103.99   | $103.99       | high           | medium | 6      | namesilo                                            |
-| school.click       | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                                     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| study.adult       | available | $95.20    | $95.20        | high           | medium | 5      | cloudflare                                          |
+| school.clothing   | resell    | $19.99    | —             | high           | medium | 6      | One.com A/S                                         |
+| study.shiksha     | premium   | $1,100    | $1,100        | high           | medium | 5      | dynadot                                             |
+| study.tennis      | available | $51.95    | $51.95        | high           | medium | 5      | spaceship                                           |
+| education.tax     | resell    | $14.99    | —             | high           | medium | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| study.wiki        | premium   | $302.50   | $302.50       | high           | medium | 5      | namesilo                                            |
+| course.university | available | $49.88    | $49.88        | high           | low    | 6      | spaceship                                           |
+| school.agency     | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                                     |
+| school.actor      | premium   | $78.54    | $78.54        | high           | medium | 6      | namesilo                                            |
+| lesson.institute  | available | $9.99     | $32.99        | high           | medium | 6      | namesilo                                            |
+| school.ai         | resell    | —         | —             | high           | medium | 6      | Name.com, Inc.                                      |
+| school.archi      | premium   | $118.80   | $118.80       | high           | medium | 6      | namesilo                                            |
+| school.apartments | available | $57.99    | $57.99        | high           | medium | 6      | namesilo                                            |
+| school.ca         | resell    | —         | —             | high           | medium | 6      | CanSpace Solutions Inc.                             |
+| school.associates | premium   | $99.50    | $108.90       | high           | medium | 6      | unstoppable                                         |
+| school.audio      | available | $93.35    | $103.40       | high           | medium | 6      | spaceship                                           |
+| school.camp       | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                         |
+| school.attorney   | premium   | $1,107    | $1,107        | high           | medium | 6      | namesilo                                            |
+| school.bayern     | available | $34.99    | $34.99        | high           | medium | 6      | namesilo                                            |
+| school.city       | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 155,043 live domains                                 |
+| 1,000-row public sample | 155,110 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 3,129 high-demand names under $2,500                 |
+| Basic exported fields   | 3,136 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Education Domain Names*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Education Domain Names*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
